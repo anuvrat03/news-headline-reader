@@ -1,0 +1,20 @@
+{
+  "national_english": [
+    {"name": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss"},
+    {"name": "Times of India", "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"},
+    {"name": "Indian Express", "url": "https://indianexpress.com/feed/"},
+    {"name": "Deccan Chronicle", "url": "https://news.google.com/rss/search?q=site:deccanchronicle.com&hl=en-IN&gl=IN&ceid=IN:en"}
+  ],
+  "national_hindi": [
+    {"name": "BBC Hindi", "url": "https://feeds.bbci.co.uk/hindi/rss.xml"},
+    {"name": "Amar Ujala", "url": "https://www.amarujala.com/rss/breaking-news.xml"}
+  ],
+  "us": [
+    {"name": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"},
+    {"name": "Washington Post", "url": "https://feeds.washingtonpost.com/rss/national"}
+  ],
+  "eu": [
+    {"name": "The Guardian", "url": "https://www.theguardian.com/world/rss"},
+    {"name": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-en-all"}
+  ]
+}
