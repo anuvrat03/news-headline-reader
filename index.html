@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Front Pages</title>
+    <style>
+        :root { --bg: #f8f9fa; --card: #ffffff; --text: #212529; --accent: #0d6efd; --sub: #6c757d; }
+        body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 40px; }
+        h1 { font-weight: 800; letter-spacing: -0.5px; }
+        .subtitle { color: var(--sub); font-size: 0.9rem; }
+        .group { margin-bottom: 40px; }
+        .group-title { font-size: 1.2rem; font-weight: 600; border-bottom: 2px solid #e9ecef; padding-bottom: 10px; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
+        .card { background: var(--card); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s; display: flex; flex-direction: column; }
+        .card:hover { transform: translateY(-4px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+        .source { font-size: 0.75rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; }
+        .headline { font-size: 1.1rem; font-weight: 600; line-height: 1.4; margin: 0 0 15px 0; flex-grow: 1; }
+        .link { text-decoration: none; color: var(--accent); font-size: 0.9rem; font-weight: 500; }
+        .link:hover { text-decoration: underline; }
+        #loading { text-align: center; padding: 50px; color: var(--sub); }
+        .error { color: #dc3545; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌍 Global Front Pages</h1>
+            <div class="subtitle" id="timestamp">Loading today's headlines...</div>
+        </header>
+        <div id="loading">Fetching the news...</div>
+        <div id="content"></div>
+    </div>
+
+    <script>
+        const groupNames = {
+            national_english: "🇮🇳 India (English)",
+            national_hindi: "🇮🇳 India (Hindi)",
+            us: "🇺🇸 United States",
+            eu: "🇪🇺 Europe"
+        };
+
+        fetch('data/news.json')
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('timestamp').innerText = `Last updated: ${data.updated}`;
+                const container = document.getElementById('content');
+                const grouped = {};
+                data.headlines.forEach(item => {
+                    if (!grouped[item.group]) grouped[item.group] = [];
+                    grouped[item.group].push(item);
+                });
+                for (const [key, items] of Object.entries(grouped)) {
+                    const section = document.createElement('div');
+                    section.className = 'group';
+                    section.innerHTML = `<div class="group-title">${groupNames[key] || key}</div>`;
+                    const grid = document.createElement('div');
+                    grid.className = 'grid';
+                    items.forEach(item => {
+                        const card = document.createElement('div');
+                        card.className = 'card';
+                        card.innerHTML = `
+                            <div class="source">${item.source}</div>
+                            <div class="headline">${item.title}</div>
+                            <a href="${item.link}" target="_blank" rel="noopener" class="link">Read Article →</a>
+                        `;
+                        grid.appendChild(card);
+                    });
+                    section.appendChild(grid);
+                    container.appendChild(section);
+                }
+            })
+            .catch(err => {
+                document.getElementById('loading').innerHTML = '<div class="error">Failed to load news. Make sure the bot has run at least once.</div>';
+            });
+    </script>
+</body>
+</html>
