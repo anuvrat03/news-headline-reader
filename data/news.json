@@ -1,52 +1,76 @@
 {
-  "updated": "2026-09-30 08:57:48.055887",
+  "updated": "2026-09-30 10:57:02.052213",
   "headlines": [
     {
-      "title": "Telangana High Court Orders DGP to Identify Misbehaving Police Officials with Woman MLAs",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-high-court-directs-dgp-to-identify-police-officials-who-misbehaved-with-woman-mlas/article71525039.ece",
+      "title": "Kharge Advocates Pre-SIR Electoral Roll and Ballot Voting at INDIA Bloc Meeting",
+      "link": "https://www.thehindu.com/news/national/india-bloc-meeting-pre-sir-electoral-rolls-evms-ballot-voting-cec-gyanesh-kumar-one-person-one-vote/article71527620.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Family Keeps Mumbai Man's Body for 4 Years After His Natural Death, Police Say",
-      "link": "https://www.thehindu.com/news/national/maharashtra/mumbai-family-preserves-elderly-relatives-body/article71527389.ece",
+      "title": "Study: Keralam's Goal for 100% Renewable Energy by 2040 Faces Challenges",
+      "link": "https://www.thehindu.com/news/national/kerala/becoming-fully-renewable-energy-based-by-2040-may-be-challenging-for-keralam-study/article71527911.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Telangana CM to Launch IDOC in Karimnagar and Announce \u20b9345.78 Crore Projects in Sircilla",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-to-inaugurate-idoc-in-karimnagar-to-lay-foundation-stones-for-34578-crore-development-works-in-sircilla/article71524976.ece",
+      "title": "Cabinet Greenlights \u20b91.86 Lakh Crore Green Energy Corridor for 135GW Renewable Power",
+      "link": "https://www.thehindu.com/business/union-cabinet-passes-green-energy-corridor/article71528006.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Telangana Families Urge Government to Rescue Four Men Stranded in War Zone",
-      "link": "https://www.thehindu.com/news/national/telangana/kin-of-four-telangana-men-stranded-in-russia-ukraine-war-zone-seek-government-help-to-bring-them-home/article71524706.ece",
+      "title": "Father's Influence: From Karate Black Belt to Archery Champion for Chikitha",
+      "link": "https://www.thehindu.com/news/national/telangana/how-sports-tragic-father-steered-karate-black-belt-holder-chikitha-to-archery/article71527878.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Pilot's Crash Attempt Triggers Hijack Code on Tel Aviv Flight",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/pilot-allegedly-tried-to-crash-plane-hijack-code-triggered-jets-scrambled-what-happened-on-dubai-tel-aviv-flight/articleshow/134586848.cms",
+      "title": "Pilot Stabbed Mid-Flight: Passengers Describe Harrowing Cockpit Ordeal",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/pilot-stabbed-blood-in-cockpit-passengers-recall-harrowing-ordeal-on-flydubai-flight-that-nearly-crashed/articleshow/134589662.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "New CAFE-III Rules: Impact on EVs, Hybrids, and Small Cars Explained",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/new-cafe-iii-fuel-efficiency-rules-what-changes-for-evs-hybrids-and-small-cars/articleshow/134582940.cms",
+      "title": "Ex-Pak SSG Commando and LeT Terrorist Moosa Killed: Pahalgam Mastermind Identified",
+      "link": "https://timesofindia.indiatimes.com/india/ex-pakistan-ssg-commando-highly-trained-let-terrorist-pahalgam-mastermind-who-was-hashim-moosa/articleshow/134588500.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Dhanraj Parimal: Corporate Leader and Samajwadi Party's Unexpected RS Candidate",
-      "link": "https://timesofindia.indiatimes.com/india/corporate-honcho-dhanraj-parimal-is-sps-surprise-candidate-for-rajya-sabha/articleshow/134581982.cms",
+      "title": "'Save Democracy March' Announced as INDIA Bloc Unites Amid SIR Controversy",
+      "link": "https://timesofindia.indiatimes.com/india/save-democracy-march-announced-india-bloc-projects-unity-amid-sir-row-targets-pm-modi-amit-shah/articleshow/134588801.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Tribunal Judge Resigns, Cites Poor Roads and Long Commute as Reasons",
-      "link": "https://timesofindia.indiatimes.com/city/kolkata/sir-tribunal-judge-sends-quit-letter-to-cj-cites-poor-roads-and-long-commute/articleshow/134573533.cms",
+      "title": "Cabinet Unveils 3 Key Measures: Rabi MSP Hike, Green Corridor, AI Traffic in Delhi",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/rabi-msp-hike-rs-1-86-lakh-crore-green-corridor-delhi-ai-traffic-system-cabinet-clears-3-key-measures/articleshow/134590128.cms",
       "source": "Times of India",
+      "group": "national_english"
+    },
+    {
+      "title": "Rahul Gandhi Summons Kanhaiya Kumar: Key Questions Revealed",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW1GM195aGQ4c0JUd1JOMFRQREowRkdKWFE4MnktbS1raEVVSks3YnY0dG4yWlExZkdmOE84ZXloWlRhc2RMSEJLSnl3YndxWmN0RWJZZDVzY0ZDN0tlRnpQc3BuV0VZOHRIMy1BTzZ3OE5wN1N5YnVrb0J4cnVqd0R3bl9VU21TM3o1OXdaRVV6d1R0UzZnenV6N3dZbmRGYXdIeFl2TVh0c2V4Q3NDb0M2OHc2d1Bva0dCc1Fwd9IBxgFBVV95cUxNY2x6Wm9aYjFsLWRaSTZfUW1KZzlFVkI5bmVCODZRbDBhUHMtLVNIOXRNNGJ1cDVQUS1SczV6QUlUNlBzSEhRTzJYdzR5QktmZnIzX2Qwc3M2ekFUNU5KZHcwakZVSG9UdFZid29TcVJwM1pWLVFfTUFHLXVoWlZ5Z2lFa1Fmb1ZfQ0FTSDJ2bXZWM3lCU3FzaVo3TzZFWFBCT0U4alN1cVdtQUI2NlUwNDcwRVJVQlJKeWlSZXA0eWVMX2k2WXc?oc=5",
+      "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "Yogendra Yadav: Election Commission's Press Note Undermines Its Own Credibility",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1NRdlZUQXp6UktMdXJLbk9pTlpmWUwzWVZmbnZ0Q2JHMUZIM3ZXdHRqOHM0UWM1RVUzTHFPMVNFakFLSzV6QjQ4SnFfRGpfY3lBYUdvZUxBQnR6RHJuNVFzNkh2NDltSDQ2UDhFejRVbEtEUjAzWlpXemJObTFWTVpKQ3FOVnJCNkhGREhua0tlVmVtU0dKZzRmQnlXOVREeXRLM2Iwd1NQYV9sRm1pVmxXVDNKQ1ZiZkdsT2ZRUE1qRU1WaXBXTNIBzwFBVV95cUxPMl9zZXBtTWNkTUR0OURQT1E2QXdKdlRtY2x4d2Z3M1BZSEVrM193RGgwM3o5WWc2M01pdE1Xekd2alY0THlVNHpjbVItamdjX0V2WU54eWtYMGF4OXFJTlUyWVhmTFV4M0xsTi1faEFUeGxxV1NScUd3Y0lhaUFkMExnaHE0dE5sY1JpbGx3enpCZndNWU40SDhMNVVacENGa201VTVfRWZjOUJhekp1Z29NdWpWbWdnZGZwOEhIOVZZUVBkRjBEa0dSZDM2YjA?oc=5",
+      "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "Asian Games 2026: India's Day 12 Schedule, Venues, and Fixtures on September 30",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW5mRDZtVXFMeXpuaVFvZnVjNE9GX2NsQkVtaXk5djR5eXVGZ0RNNWllcFAyS0FMZkhJMHFUSGlLXzBTMWhWZUpMUXRKVS1ZczVrcVd0SUJGUFBSYmozd191elNkODA5SjdTa1ZaMlpsX3ZWcjNYZUVfVWRQTXQ3MklWeUs3dFctZXVaamQ2Q0ktNkpZUmU2OFFyTGpINW9NUUI4SExvVkhHNU1ZVVI3S1BPS3Rodkd4X3l4ZWhBWHnSAccBQVVfeXFMUFd6RTVTaENNbGJ0eGstWENLcUN5bzU5QUdlRnJKYS16RktVNlhwcE9XbmIxLTBoTlZaeFl0NUJnVzJ0TzhoZXFYaEl0SEJnNUNxeUlxc2NFOHh2cTZiaVhzN1IyTkNWX2h0cHJHYzkzTXJQNU9lc0NWdUJwWjhsRXlsRVJkMEpRQTg2djVhRXhKcjhsZ0Q5MC0yOXliY1BZbXhxTHZrM2c1clY0V0ZicmFSMUpoa2VMaWo0OVdlVEozMFZpQm9YRQ?oc=5",
+      "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "Former Gujarat CM Vaghela Ready to Join Congress to Oust BJP",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkhGYlpsU1VmQzg0QVNWWXRjbi1iVGliNFpoaUNnanVVcnYwRnM3MlVuY1QwSzFTcEtOd0JzOUctYzRuM2lZMjFHZUNvVGJ5Tm9QaTltdGpNNTkwZlJmcGtjSjZrR0Z3V3J6b3lJSU5TcXBaQm0tZnpBaTJka1JHX3Z2c29DMDlPcERRakJ4XzEyWlhrSGZzMUdxSFBDbHpPR1RPQ0ZR0gGsAUFVX3lxTE5kUEpfbk5BTzFJX2xfSGFuYWJ3S1JZRUZUVUJiUG16bzNsR2IzNmYxWTJRWWxnN056NlFkNDhOcG1pTzBhRW5wWVFFTC1mX1BIaU5fR1A0Qk1vV21lTlpWNkpKSlJOUEszQ2JXU085ZWc1SFVfc1lONzlXYzJoaV82WldOQ1JCNGZXR2RoTnoteU9aWHJiZE1vTW5CSDNMbXVBVjF2WjNOLUtwV0Y?oc=5",
+      "source": "Indian Express",
       "group": "national_english"
     },
     {
@@ -68,104 +92,104 @@
       "group": "national_english"
     },
     {
-      "title": "BJP: No External or Anti-People Agenda Will Take Root in J&K",
+      "title": "BJP: No Anti-People Agenda Will Take Root in J&K",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWp2a1NtYWZDaG4wSXJybXBFd3A3QW9PVXlWbmFpVWJRbWJjT1hCVksyT3JvMWctbkx4eFl6c1ZqYnB4V0RiUzA2eWxsbnpUQXlwSUc4bHgzal9fVDc2X1gycmNydE03SGhTVGxmNi0wRWx0WTVmc0J1eS00Y0k3aUdTNUdGV1MxUjh3RDZ6elpLTFJFWWxtNFloSmNnWmFlYlliQms4NEdWeTlpVjhfZ05EZGVmRHBlRzVZ0gHAAUFVX3lxTE80c1FQLWp3X2JWYXhkV1VVb1VGbnlzSEJJZzN1cGw2dm9EbVFrUE8xQmhubGtSUjBvWjJpVHFidVdMRGx3YThIbW12aVhOb0hLaWVfOHhLckFrbkRRYllFb2R4bUhMWl9rWmMzNzJIUFMwM0VvUXlIZ3VJRTdwdHdEbXBLeW00bE5WWmFzRGpEX1kyOXduV3BqYWgyNHJmMmJqdXFFbHdjSDZucG1vQmtSczZIMEJBNWVYRnl3V0RKUw?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
-      "title": "\u0926\u0941\u092c\u0908-\u0907\u0938\u0930\u093e\u0907\u0932 \u092b\u094d\u0932\u093e\u0907\u091f \u0915\u094b \u0938\u090a\u0926\u0940 \u092e\u0947\u0902 \u0906\u092a\u093e\u0924 \u0932\u0948\u0902\u0921\u093f\u0902\u0917, \u092a\u093e\u092f\u0932\u091f\u094b\u0902 \u092e\u0947\u0902 \u091d\u0917\u0921\u093c\u093e",
+      "title": "\u0926\u0941\u092c\u0908-\u0907\u0938\u0930\u093e\u0907\u0932 \u092b\u094d\u0932\u093e\u0907\u091f \u092e\u0947\u0902 \u092a\u093e\u092f\u0932\u091f \u0915\u093e \u0939\u0902\u0917\u093e\u092e\u093e, \u092f\u093e\u0924\u094d\u0930\u093f\u092f\u094b\u0902 \u0928\u0947 \u0915\u093f\u092f\u093e \u0915\u093e\u092c\u0942",
       "link": "https://www.bbc.com/hindi/articles/cmgqdxjn84v2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f \u0915\u0940 \u091f\u093f\u092a\u094d\u092a\u0923\u0940: \u092e\u0941\u0932\u094d\u0932\u093e \u0905\u092b\u093c\u0930\u094b\u091c\u093c \u092a\u0930 \u092f\u0942\u092a\u0940 \u0938\u0930\u0915\u093e\u0930 \u0915\u094b 10 \u0932\u093e\u0916 \u0915\u093e \u091c\u0941\u0930\u094d\u092e\u093e\u0928\u093e",
-      "link": "https://www.bbc.com/hindi/articles/c370l2vvp2ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Hindi",
-      "group": "national_hindi"
-    },
-    {
-      "title": "\u0909\u091c\u094d\u091c\u0948\u0928 \u092e\u0938\u094d\u091c\u093f\u0926 \u0935\u093f\u0935\u093e\u0926: 20 \u0917\u093f\u0930\u092b\u094d\u0924\u093e\u0930, 30 \u092a\u0930 \u090f\u092b\u0906\u0908\u0906\u0930 \u0926\u0930\u094d\u091c",
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092e\u0939\u093f\u0932\u093e\u0913\u0902 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092c\u0922\u093c\u0924\u0947 \u0905\u092a\u0930\u093e\u0927 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0932\u0921\u093c\u0915\u093f\u092f\u094b\u0902 \u0915\u093e \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928",
       "link": "https://www.bbc.co.uk/hindi/live/c862eprddrlrt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u091f\u094d\u0930\u0902\u092a \u0915\u0940 \u092c\u0921\u093c\u0940 \u0918\u094b\u0937\u0923\u093e \u0909\u0938\u0940 \u092d\u093e\u0930\u0924\u0940\u092f \u0917\u094d\u0930\u0941\u092a \u0915\u0947 \u091c\u0930\u093f\u090f, \u091c\u094b \u0926\u093f\u0935\u093e\u0932\u093f\u092f\u093e \u0939\u0941\u0906 \u0925\u093e",
-      "link": "https://www.bbc.com/hindi/articles/cmp8d6pj4pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "\u091a\u093f\u0930\u093e\u0917 \u092a\u093e\u0938\u0935\u093e\u0928 \u0928\u0947 \u092c\u093f\u0939\u093e\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u094b '\u0928\u093f\u0915\u092e\u094d\u092e\u093e' \u0915\u0939\u093e, \u0915\u094d\u092f\u093e \u0939\u0948 \u0909\u0928\u0915\u093e \u0905\u0938\u0932\u0940 \u092e\u0915\u0938\u0926?",
+      "link": "https://www.bbc.com/hindi/articles/cmrl6g038pdwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u091a\u0941\u0928\u093e\u0935: \u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935 \u0928\u0947 \u0924\u0940\u0938\u0930\u0947 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0936\u0940 \u092a\u0930 \u091a\u0941\u092a\u094d\u092a\u0940 \u0938\u093e\u0927\u0940, \u092a\u0940\u0921\u0940\u090f \u092a\u0930 \u0926\u0940 \u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0930\u093f\u092f\u093e",
-      "link": "https://www.amarujala.com/lucknow/akhilesh-yadav-said-that-the-pda-is-facing-the-greatest-injustice-in-this-election-2026-09-30",
+      "title": "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f \u0928\u0947 \u092e\u0941\u0932\u094d\u0932\u093e \u0905\u092b\u093c\u0930\u094b\u091c\u093c \u0915\u0940 \u092a\u094d\u0930\u093f\u0935\u0947\u0902\u091f\u093f\u0935 \u0921\u093f\u091f\u0947\u0902\u0936\u0928 \u0930\u0926\u094d\u0926 \u0915\u0930 \u092f\u094b\u0917\u0940 \u0938\u0930\u0915\u093e\u0930 \u092a\u0930 10 \u0932\u093e\u0916 \u0915\u093e \u091c\u0941\u0930\u094d\u092e\u093e\u0928\u093e \u0932\u0917\u093e\u092f\u093e",
+      "link": "https://www.bbc.com/hindi/articles/c370l2vvp2ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Hindi",
+      "group": "national_hindi"
+    },
+    {
+      "title": "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f \u0926\u0940\u092a\u093e\u0935\u0932\u0940 \u0938\u0947 \u092a\u0939\u0932\u0947 \u092a\u091f\u093e\u0916\u094b\u0902 \u092a\u0930 \u0930\u094b\u0915 \u092a\u0930 \u0915\u0930\u0947\u0917\u093e \u092b\u0948\u0938\u0932\u093e",
+      "link": "https://www.amarujala.com/india-news/cannot-impose-a-complete-ban-on-firecrackers-supreme-court-to-decide-before-diwali-standards-to-be-determi-2026-09-30",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "Jaishankar Meets UN Chief Guterres to Discuss West Asia Conflict and Ukraine War",
-      "link": "https://www.amarujala.com/india-news/un-external-affairs-minister-jaishankar-met-guterres-deliberated-on-several-issues-including-the-west-asia-2026-09-30",
+      "title": "\u0930\u093e\u0939\u0941\u0932 \u0917\u093e\u0902\u0927\u0940: \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 \u091a\u0941\u0928\u093e\u0935 \u091a\u0941\u0930\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u091c\u094d\u091e\u093e\u0928\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u093e \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932",
+      "link": "https://www.amarujala.com/india-news/politics-rahul-gandhi-targets-cec-gyanesh-kumar-alleges-pm-modi-is-using-him-to-steal-elections-2026-09-30",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "IND vs WI Live: \u092d\u093e\u0930\u0924 \u0915\u0940 \u092a\u0939\u0932\u0940 \u0938\u092b\u0932\u0924\u093e, \u0915\u0947\u0938\u0940 \u0915\u093e\u0930\u094d\u091f\u0940 \u0932\u094c\u091f\u0947 \u092a\u0935\u0947\u0932\u093f\u092f\u0928; \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927 \u091a\u092e\u0915\u0947",
+      "title": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u0938\u0942\u0916\u0947 \u0915\u0947 \u092c\u0940\u091a \u092c\u0948\u0902\u0915\u094b\u0902 \u0915\u094b \u0932\u094b\u0928 \u0935\u0938\u0942\u0932\u0940 \u0915\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0926\u093f\u090f",
+      "link": "https://www.amarujala.com/india-news/maharashtra-banks-instructed-not-to-visit-farmers-homes-for-loan-recovery-minister-says-2026-09-30",
+      "source": "Amar Ujala",
+      "group": "national_hindi"
+    },
+    {
+      "title": "IND vs WI Live: Hope and Jangoo Build Partnership as India Seeks Wickets",
       "link": "https://www.amarujala.com/live/cricket/cricket-news/ind-vs-wi-live-cricket-score-india-vs-west-indies-2nd-odi-2026-match-at-barsapara-stadium-news-in-hindi-2026-09-30",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "NEET UG Counseling 2026: 183 New MBBS-BDS Seats Allocated Today \u2013 Check Here!",
-      "link": "https://www.amarujala.com/education/neet-ug-counselling-2026-mcc-round-3-seat-allotment-result-check-183-new-mbbs-bds-seats-reporting-dates-docume-2026-09-30",
-      "source": "Amar Ujala",
-      "group": "national_hindi"
-    },
-    {
-      "title": "Jack Smith Stands Firm on Trump Charges as Senator's Perjury Claim Crumbles",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+      "title": "U.S. Forces Depart Iraq After 20 Years, Leaving Uncertain Future",
+      "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Democrats in Congress Shift to a Tougher Stance on Israel",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+      "title": "U.S. Troops Withdraw from Iraq 23 Years After Invasion",
+      "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Judge Orders New York to Halt Second-Home Tax Rollout and Restart Process",
-      "link": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
+      "title": "U.S. Exits Iraq After 20 Years; Trump Urges A.I. Giants to Self-Regulate",
+      "link": "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "D.A. in Cornell Case Seeks to Interview Accuser Amid New Evidence",
-      "link": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html",
+      "title": "Meta Leverages A.I. Data Centers to Save Billions in Federal Taxes",
+      "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "ICE Shooting in Austin: Immigrant Faces Assault Charges",
+      "title": "Workers Return to School to Pursue Jobs That AI Can't Replace",
+      "link": "https://www.washingtonpost.com/education/2026/09/30/fearing-ai-workers-go-back-school-seeking-jobs-that-still-need-human-touch/",
+      "source": "Washington Post",
+      "group": "us"
+    },
+    {
+      "title": "Carnegie Mellon Receives Historic $3 Billion Gift, Largest Ever to a University",
+      "link": "https://www.washingtonpost.com/education/2026/09/30/carnegie-mellon-nets-3-billion-gift-most-ever-given-university/",
+      "source": "Washington Post",
+      "group": "us"
+    },
+    {
+      "title": "Male Birth Control May Soon Be a Reality",
+      "link": "https://www.washingtonpost.com/health/2026/09/30/male-contraceptive-may-revolutionize-birth-control/",
+      "source": "Washington Post",
+      "group": "us"
+    },
+    {
+      "title": "ICE Shoots Immigrant in Austin, Who Now Faces Assault Charges",
       "link": "https://www.washingtonpost.com/immigration/2026/09/29/immigrant-shot-by-ice-austin-is-charged-with-assault-by-justice-department/",
-      "source": "Washington Post",
-      "group": "us"
-    },
-    {
-      "title": "Hegseth Bans Military Academies from Hiring Civilians as Tenured Professors",
-      "link": "https://www.washingtonpost.com/education/2026/09/29/hegseth-bars-military-academies-hiring-civilians-tenured-professors/",
-      "source": "Washington Post",
-      "group": "us"
-    },
-    {
-      "title": "Supreme Court Temporarily Resumes 'Third Country' Deportations",
-      "link": "https://www.washingtonpost.com/politics/2026/09/29/supreme-court-allows-trump-administration-now-resume-third-country-deportations/",
-      "source": "Washington Post",
-      "group": "us"
-    },
-    {
-      "title": "Jack Smith Defends Trump Probes, Vows Not to Be Silenced in Senate Clash",
-      "link": "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/",
       "source": "Washington Post",
       "group": "us"
     },
@@ -176,44 +200,44 @@
       "group": "eu"
     },
     {
-      "title": "27 Dead in Two Mass Shootings in South Africa, Police Report",
+      "title": "27 Killed in Two Mass Shootings in South Africa, Police Report",
       "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "source": "The Guardian",
       "group": "eu"
     },
     {
-      "title": "Cape Town Divided Over Controversial Plan to Remove Monkeys Amid Housing Concerns",
+      "title": "Cape Town Divided Over Controversial Plan to Remove Problematic Monkeys",
       "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
       "source": "The Guardian",
       "group": "eu"
     },
     {
-      "title": "Rebel Assault on Ethiopian Army Raises Fears of Civil War Resurgence",
+      "title": "Rebel Offensive Against Ethiopian Army Raises Fears of Civil War Resurgence",
       "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "source": "The Guardian",
       "group": "eu"
     },
     {
-      "title": "Eiffel Tower Chief Patrick Branco Ruivo Resigns After Controversy Over Staff Exclusion",
-      "link": "https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-all-1573-rdf",
+      "title": "Flydubai Pilot Under Investigation for Alleged Attempt to Crash Flight to Tel Aviv",
+      "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Opposition Leaders in India Unite to Address Poll Body Dispute",
-      "link": "https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-rdf",
+      "title": "Trump Proposes Renaming AI to 'Super Intelligence'\u2014Is He Right?",
+      "link": "https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Germany's Coalition Promises Reform Deal for Care System",
-      "link": "https://www.dw.com/en/germany-news-coalition-vows-care-system-reform-deal/live-79481802?maca=en-rss-en-all-1573-rdf",
+      "title": "Eurovision Aims to Expand Brand Amidst Tensions",
+      "link": "https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "El Ni\u00f1o: A 'Postcard from the Future' with 451,000 Projected Heat Deaths",
-      "link": "https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-all-1573-rdf",
+      "title": "South Korea's Lost Shark Attracts Over 500,000 Visitors",
+      "link": "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     }
