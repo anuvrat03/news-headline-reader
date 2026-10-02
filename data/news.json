@@ -1,195 +1,195 @@
 {
-  "updated": "2026-10-01 06:18:56.400841",
+  "updated": "2026-10-02 05:58:59.322258",
   "headlines": [
     {
-      "title": "Demography Panel's Questionnaire Sparks Controversy Over Data Collection",
-      "link": "https://www.thehindu.com/news/national/conundrum-over-panels-questionnaire-seeking-extensive-data-on-demographic-changes-explained/article71523595.ece",
+      "title": "Yanadi and Chenchu Communities in Andhra Pradesh Fight for Land Rights",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/marginalised-yanadi-and-chenchu-communities-in-andhra-pradesh-struggle-for-land/article71533477.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "CCTV Footage Shows Amravati Hospital Fire Alarm Went Off Three Times",
-      "link": "https://www.thehindu.com/news/national/maharashtra/amravati-hospital-fire-cctv-footage-shows-three-fire-alarms-staff-absent-and-alleged-lapses/article71529598.ece",
+      "title": "G.P. Talwar at 100: Celebrating a Lifelong Legacy in Science and Research",
+      "link": "https://www.thehindu.com/sci-tech/health/gp-talwar-centenary-institution-builder-nii-leprosy-vaccine-birth-control/article71535826.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Madras High Court Upholds Election Petition Against Esakki Subaya's Ambasamudram Victory",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-petition-filed-against-esakki-subayas-ambasamudram-win/article71531436.ece",
+      "title": "Keralam Government Faces Unity Test Over UDF's Alliance Consultation Issues",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-faces-unity-test-as-udf-convener-adoor-prakash-reiterates-lack-of-alliance-consultations-on-key-postings/article71535925.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "CM Vijay Positions TVK as AIADMK's Organic Successor, Defends Dharapuram Candidate Switch",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-positions-tvk-as-organic-successor-to-aiadmk-justifies-dharapuram-candidates-party-switchover/article71529345.ece",
+      "title": "Hyderabad's Ganesh Puja: A Celebration of Devotion and Wealth",
+      "link": "https://www.thehindu.com/news/national/telangana/hyderabads-ganesh-puja-big-on-devotion-bigger-on-moolah/article71534613.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "PM Modi Praises Flydubai Pilot for Averting Another 9/11",
-      "link": "https://timesofindia.indiatimes.com/india/prevented-another-9/11-pm-modi-heaps-praise-on-flydubai-pilot-captain-machchhar/articleshow/134608685.cms",
+      "title": "\"Passengers Rush to Flydubai Cockpit in New Video: 'Is There a Doctor? Extra Pilot?'\"",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/new-video-shows-panic-chaos-on-flydubai-plane-how-passengers-rushed-to-cockpit-during-hijack-attempt/articleshow/134631835.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Captain Smit Machchhar's Quick Thinking Saves 174 Lives",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/inside-flydubai-flight-fz1073-how-captain-machchhars-quick-thinking-to-open-cockpit-door-helped-save-174-lives/articleshow/134608575.cms",
+      "title": "Birthday girl Lovlina wins gold, joins Mary Kom in elite club!",
+      "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-birthday-girl-lovlina-borgohain-makes-history-with-gold-joins-mary-kom-in-elite-club/articleshow/134631913.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Afghanistan Claims Civilian Deaths in Pakistan Airstrikes; Islamabad Denies, Cites Militant Targets",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/4-killed-6-injured-in-pakistani-airstrikes-in-afghanistans-helmand/articleshow/134607226.cms",
+      "title": "Four Assam Cops Suspended After Ambulance Blocked for CM Himanta's Convoy",
+      "link": "https://timesofindia.indiatimes.com/city/guwahati/ambulance-stopped-for-himantas-convoy-4-assam-cops-suspended/articleshow/134612527.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Monsoon Deficit Hits 13%: Fourth Lowest Rainfall Since 2001 Declares Drought Year",
-      "link": "https://timesofindia.indiatimes.com/india/monsoon-deficit-at-13-officially-a-drought-year/articleshow/134602606.cms",
+      "title": "Ford CEO Jim Farley Highlights Jobs AI Can't Replace",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/ford-ceo-jim-farley-makes-clear-distinction-of-the-jobs-that-ai-cannot-replace-says-automation-cannot-be-done-for-/articleshow/134632005.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "NCERT Revises Class 9 Medieval History Book: From 'Invaders' to 'Goddesses'",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQakVBcWF4NktpX3NIOElfaXVPTmw2SkVhUnk3NHE4cjVCYXNlU2t3Qm9yaDU2aXowQ2NITVI3cEtGV2ttd0Jtal9BOFhoWkFxQVdkbm14blY5T0pVdVVsdDdZOHBlV0hXZEcyYy1XaXo0b2tieUoyUzFoNTh0Z1BtSFB1VWxYdzdiVHJSVksyQTZKSGNaSGs0NE1wZ3pnZm9CeGN1YVpiUVZZQzFRNjdCU1hyYnAySnljNWJnU21vYnhyMGllRzR3VtIBzwFBVV95cUxOa3lFQjRxeXBZR2Q3WVlBank2RF9SbHhnUnhaNEZrT3BVa1BnZXc2RENlUE5VdXZoa1l2TlByLXVsY1V2bFgzQ3pueWl4YWhaR0gtamdSNkVlSW12N1RiRHNVWlBDYmxkSlBvUW5GSmxVS1FEUlhxZWVIU2VyOERQZXo3MjJrQ2ZIcHhDaHZnc3Fadk9oOThCQlBsRjVYS1NoMW1QWlI0OGdHTHM2MG5hMG9XM3RiekRIZEM1Wk11bHhub2xwdWVkdjc3MUMzWVE?oc=5",
+      "title": "Pilot Smit Machchhar Airlifted to Dubai After Emergency Surgery in Saudi Arabia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREw5QS1fQ040SmZSalJTc2VjZWttMUpZUjZfZVE3V1pFWFktM2lGaGRUT1doUEp6Zi1hY2w0Tko4bzhid3pQd2huUXhybUtsR1RJcGM1amhfY0YxWEFVSHlEMzFTMkRCVi1uQ1pjM2dvSWZDMHhJdnRRWXprSGNGajhWeUZHajRnU0IzaVNFQWF5TTlLemw1dDNURHNmWVHSAaYBQVVfeXFMUGpYeTJNV21pQVRDMWM4M2RnNVd1YVFST0hyTml6WVc3dW1fNEV1c3pVbGlRdmlxdnZCLVUwV1FJOXd5UFFpZlQyNWFSZ0R5dmZ6cHRZYjZvWWxYMjlNZ2VlOWJVS0NHM1RhaEpUMlpIXzRtamIyRTFfODRxWEZFdE1oVnF1RkQ0eWxFOGVNOUVaRzNGcHJhNUFCZGprWWN4cXZzU19BUQ?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "Rahul Gandhi Summons Kanhaiya Kumar: Key Questions Revealed",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW1GM195aGQ4c0JUd1JOMFRQREowRkdKWFE4MnktbS1raEVVSks3YnY0dG4yWlExZkdmOE84ZXloWlRhc2RMSEJLSnl3YndxWmN0RWJZZDVzY0ZDN0tlRnpQc3BuV0VZOHRIMy1BTzZ3OE5wN1N5YnVrb0J4cnVqd0R3bl9VU21TM3o1OXdaRVV6d1R0UzZnenV6N3dZbmRGYXdIeFl2TVh0c2V4Q3NDb0M2OHc2d1Bva0dCc1Fwd9IBxgFBVV95cUxNY2x6Wm9aYjFsLWRaSTZfUW1KZzlFVkI5bmVCODZRbDBhUHMtLVNIOXRNNGJ1cDVQUS1SczV6QUlUNlBzSEhRTzJYdzR5QktmZnIzX2Qwc3M2ekFUNU5KZHcwakZVSG9UdFZid29TcVJwM1pWLVFfTUFHLXVoWlZ5Z2lFa1Fmb1ZfQ0FTSDJ2bXZWM3lCU3FzaVo3TzZFWFBCT0U4alN1cVdtQUI2NlUwNDcwRVJVQlJKeWlSZXA0eWVMX2k2WXc?oc=5",
+      "title": "Hrithik Roshan Celebrates 5th Anniversary with Saba Azad; Sussanne Khan Responds",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRnNKVGp6Z0kyM3BQOVJpS2pPMFpyRElXR2xxcjZncU1XM1hRLS1mbmtuYVlMZDVwWWo5RUhmaDczQ0lRR3NxRmoxS1VvWWlid08zanRwMFhZc0xESUFOMlJsa2FyamhMcFFQVzZzT1VBZWZ3ZUhxb3pxc2tUUEl0cmJiREhiU2Q0VjVac3lSTGxFbEUtTTd1T011TmVmM1ZVc2h1RjEzWW03c0dDdnh3clZ4X3pLc1pNR0x0U2c2TXpTNldaMl9DN1d0NUktUHljRk5UbHctQmVQZ2cySW1pMDNjUk15WFI5dVQ40gHyAUFVX3lxTE5yVkpnaWdoMUJuQnFUc3U1a3NJend6NHRMbFNQeHdsSGtmR1FUMzdlLU15OFJNNkUwcnRNQnZfMTkxS1Btc0x6MXFSYXBxVjItS3ZzNzRZbV9KZFluaDM0NnB2WGQyamhzNk5CYV9LY1hXaThZSFBTRGw0VGFrRHFYeWE0Smp3aGtuOURzcnV4V2xMV1hEbUJ3T3JsM1VTbUJySU4yamJqeWQ3OGJKcThhSmhxaVRjUVE5QllYekx3NEVaNk5UMEhwUmUtU1hsMmR4MTkyV3pydlhqUzdxb2xUWUpXYUVYeE5SN3FDblBfa2FR?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "Gyanesh Kumar Row: A Key Moment in BJP vs INDIA Bloc Showdown",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTVV0ZzJIbHRCVFY4X21vLU9HMmxnSC1Xb0NCRTVVREEtZm5CR2FvLXR6Y0ptbHAyLWktSEpkTF96VE1qZ0hZYWllVm4tZkRTNlhKRzJPdWhOSG52QTBkWmR1TE5wTGpqUGpkc21mMXVDOGVOZTJuaWxBUERpajNYU3Z0eV9tTkUxMXdTZkUwREVKdXh5QlZBNmRqUDF2VHpWQ21FeF9icEVJc2VQWHlPZzRqMy1SZzQ2bVJQRlNuMkp4T3JwNVVtcTh30gHQAUFVX3lxTE9RSDFVcExkWkhXZnQ2RXFDT2dMWEM0MVc0emFCMVdoeGk3OGU0TmJtZDdkVnZTLWRMUHFXN3plM2RpV2ptdnA2aHpBV1AyYVZJWUdwSWc1dDluNjJHU0w5bkFOTlQ1OWdvX3Zvd0VBb0J5VnlnRjZwZlppNjVmMGpTeElWRDM5LVZKRWxpb0ZLc19lbUs0alNpU2dOQ3lXcVFEekdsU3ZBS0Fhdk9CbXVyd190V0VEaVhCbl9qTUxneVp5eFVPUjgxdFc5NVctS0w?oc=5",
+      "title": "Nimrat Kaur Remembers Father's Terrorist Killing: \"Next Time I Saw Him Was in Coffin\"",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeDFZd3NfSm1Ecmk3UnVOaUh3UG1hc1ZYNDFZMkZzRndmRVo1UUpOdkw2N01uanI0UXFMQXVxaEdaemlYU1RwVHAwMktwRGlzWC1DNGFxU2lQcmR3eEt5WFVRdXAxVzJoaEFwVzJ0VnJLLWJxRlpCUVpydjhJQk14Y21PWFQ0RHR6TkxBLUVQeURzY2F2dHBFUXg2Y0NUM1J5THRmdWkwRzl6bkg5V200VkxCb005U1hZeGNLSVY1TlRpcWJjWTF5N0xXSXJ0TlBuSk41b2Q4QkNVRkVZaHRka3Z3RVVpUdIB7AFBVV95cUxPSXRiUUdXMjU1Z0lIMmFXVWgydjdPRVMxWHpoOE0xZUYwV0s3Y3N1S3ZiME4wYi1xVmdxZlhGVTBJU0VOdHlLSTVocXlabW1wa3h6OU5CZ2R5Rm1aRFFOcU0zcWROaHI0SDM2aVN5T01vcnAyU0diY2QyQ2lfSFRpSUdfMXowb3hTNkhKa1VsVGdSMVBFZ1YwTEdwa2J3T29UcnVEcWhmT094RFo1UXZObndkb3g0Z1pBenh3eGdfNG5sZzdUNDlhR2VOOHo4Z2RQTGVlaGFSU0R6RnpVQWFCWDdiM1ZIaHVVYV9LLQ?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "Yogendra Yadav: Election Commission's Press Note Undermines Its Own Credibility",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1NRdlZUQXp6UktMdXJLbk9pTlpmWUwzWVZmbnZ0Q2JHMUZIM3ZXdHRqOHM0UWM1RVUzTHFPMVNFakFLSzV6QjQ4SnFfRGpfY3lBYUdvZUxBQnR6RHJuNVFzNkh2NDltSDQ2UDhFejRVbEtEUjAzWlpXemJObTFWTVpKQ3FOVnJCNkhGREhua0tlVmVtU0dKZzRmQnlXOVREeXRLM2Iwd1NQYV9sRm1pVmxXVDNKQ1ZiZkdsT2ZRUE1qRU1WaXBXTNIBzwFBVV95cUxPMl9zZXBtTWNkTUR0OURQT1E2QXdKdlRtY2x4d2Z3M1BZSEVrM193RGgwM3o5WWc2M01pdE1Xekd2alY0THlVNHpjbVItamdjX0V2WU54eWtYMGF4OXFJTlUyWVhmTFV4M0xsTi1faEFUeGxxV1NScUd3Y0lhaUFkMExnaHE0dE5sY1JpbGx3enpCZndNWU40SDhMNVVacENGa201VTVfRWZjOUJhekp1Z29NdWpWbWdnZGZwOEhIOVZZUVBkRjBEa0dSZDM2YjA?oc=5",
+      "title": "India to Prepare for CWC 2027 with Six ODIs in South Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdEZDOVluZ2RyaW4xQzRxbi14VV9zNHZwbUlEMW1tSmtlbGJ4LWVjZ3NCYW1EaWQ4QndnS0NsTy0yRjRfUzk1T3ktbERMejBrMzN0UGwwQkRHVExoVS1qdldHa3Q5YVI5NENhbXZyaTBjVE85SXlRam1zcVhQVU05VzY4VU9teGNvVnkyc2dGUHZfb25HSW1TLWZ0MzA2YmNldUxENHNYTXVGZGFPbWtMa3JLNHhGcngzdjVzVzlIelNvdlNiVVlNTUZpeEcyMm5IdDN4YmVNTdIB3gFBVV95cUxPU2h3ZGhHdGppUWhsVjkwMFR5ek1VaGVFdFdYZ0RaWFZ6Vm03VFdxX3FDTldwWm11MkRiTHNrOVJPbDNIa29jYmd2d3J4dk1lMXdBZ2pwRkRiYTNUM01UY3JETFE2OVVwdEM4c29NZXdQYjN3T1ZtZEVWdE1tWnNRWEFnd0wtMV9HZk9RRFg3cGJ0dnVsa2VMQWNycm5mdG1tUi10Q2RQM05TQVpYNHRuQUh2dTk3S2w0TlQtbFd5LWFXQU4xaWhjNVE3emptN293aWtOQ3BadUp6ejh2SUE?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "J&K to Introduce Law Targeting Fake News and Unregulated Social Media 'Journalists'",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1hxTkJwQi02R3FXZDhjX1pVX1cyUUNWc0hITmZXaGltMG9UdmNwcjYteVQtUDA2a1BFQmZuajdhNlVaSUVNOUJ2a3NPZXNmM2pqRHp4SmU5dWRWSVpyLWU3c3JqUG9BWGU0eVNGLXoySHpGTDJKZmlLRUo5cjYyN1ExQ2t1SURpeTZOLTFaRWR5MGtCalRoSFNEVElxdDZSUlVSeFZ3Mm5tOC1PVk5yLTJiOTNQNWR0NTl2a0RGUnh4aXZVYldvcHJfMkhBY1HSAdQBQVVfeXFMTU9Rc042clVzSGN1ZFg4d2V5TWg2dzNmQXNmeFVvN1RNNDJxdUFVZjJhWERteGI2U0lsNkFDWXhDRVpWVE9xdjQyUlRjcWZBQlpwSjlibWF0ZmZwTGIyekdGUmxybVhsNmFQSUR1d0FBYWFoUVN5clJrVnJLamZEaVlsTDh4V0tTbkNZZGpfQm5zclNHcGxLTUVtZWFtTkc1UEVSWXpTZlBUU2pxMERQN04tc05Wc1psMlJ0MTYtYTltbUhsMjdnNGZOaTNiRzBQOGQ1dGI?oc=5",
+      "title": "J&K Launches Ambitious Electric Vehicle Policy",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTdxd1VLc1p1anUxdjctOF9DNXh2R0FvMGdPU3FISVFmOVJ4QWFKbVEyRWRWSExsd0QwVVc0OGVWTTFIOVBXamlaMlRRXzRrZm1TMFFrSzg4a3FkQVhSdlZINS1veVVPbGNqSXFPTTN4YUp5SjNMODd0OXRiYllTVFNVVDVTUkZpVzkwNTZ5UmNYVU1WUEHSAZsBQVVfeXFMT3RuNDk3d3ZiTzRKR3Bib0dkWmcydzRCMDZJaFR0NXhiTGxBOVBITHdYdW5vMUN4dnJtUzJNVWhGbUpyYi1MU0ZVS2R1YmhpU3FIOVNteVdPRU1KcXkwNlFfakhQa2NTRUlhNHk0MzZhUGUzYlZ6SHE5a1lSTi1fVE15a2E3YTZQZkVRLVBXdURibEdVWTQ1bGdOUk0?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
-      "title": "LeT Commander Asif Fauji Killed in Yusmarg Operation",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTklsNGV2b0pwQXEzNVo4UlI3aFhBQ1VTZGEzbkpZQTM2Vmg4aXBKdTBPemNkWmxaNVBRd0NoSlFGRkQwR2wwdVlTYmloTE92cklMUGlSdFpCVTRlc0VLUmZQeDhBcWNmWlAwSkRwYi00cWpQaU0zQnpJc2E4dXA4MFBTYWNITVAtTncxRmZBMW5GeldDSUNFWHZ5WkV1YmhfVGpqSmtsbTYtRVE3RVZMONIBtgFBVV95cUxPTF8wbXZOSkFMdkd4QjVRR3lXSlpUY0RLYzhQcDNYT2VyY0pCMm5QWnU3ajNKaFJNckoyR3FRTk9ZRTNBQWV0NnZBaXRWLWY4RXBxX01MTDVhV1ZQVzgwRWh6N29aeWlMM0FCV0tyWEdaTUdnR2QwOGdhNldLUlZGVG9LbU5CaTdJQm95aGdEcHFEOHprYVJReWE3WUdzckJXQ2lTNEpkeHJ0Z2Z6SkdfeEc3cnBrUQ?oc=5",
+      "title": "Inside Look: Covering the J&K Assembly's Autumn Session as a Journalist",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1JHekw4aE94RjNlMHRldDgxUTZGY0l2UWVGR0xNNUFRaUIySkN3OTl5Qjc1UjFyZFlyUGtmZmJMNzQzekdNdGZqYkVTRmxoVWRMNHhNR2Q2am5JOUxHVWVKOU9rTTVkSzNXMXZtd1g4WkoxMFJ5bkhfaXVSc2dkT3NHNS1PZW9rZnQ0TkJWSEtmaE9XeGphOGlvZDFwbkREeFdBd2p0dldYblo3b09vRUg3ejItNnJLWFJrSlZwRm9mT0RrRU50Wlp0ZjZYNVduaWoxdVZ30gHbAUFVX3lxTE1TOUQwWGNwNkIycGNWN29pVnBIeHdmT21Zbk1RR18zMGVOWlE3TG1DcktQcjQwbU9rR245RS0zSmtDX19FOFZXWnV3MExLOC1BcjNFaXhick9VSmxUZTkyQUZTUHYxVE1BMlN2ek54aEU2RS1VQllKNXNVTUtXSmd2am93QTRmQ0o2a2RTTGJjUlBNMkRCMmE2blBfbFRKTHpzTjlva0NWZE8ycUE4UXpuWDhBbnlrVkdvTW55aHRGZ2dTd3VmeUhjczZQR2Y1alZkWFdWMnA3VHp0VQ?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
-      "title": "Omar Abdullah Withdraws Salary Hike Bills, Outsmarts BJP in Assembly Showdown",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcjBaM1JDVE90RFNHNC1VVGFpRDB2QnJaWnZZb2s3emY1NHVpeDhVbXlVdk1IS0JXNmVaVFdDRm9nU0hIVnY2OTZScHYwRnliV1NCbF9xeGhIdXdZaUpjNWZTV0dPTVN4d2dBZEtyN3BETy1NaEQwMjZtUEh6R1doWnNfMVgzM09GY1pFUDV3dkRCaVNYU0gxTXdIeEczeGY4TXA0WjNuV0R4ZDRrTGlocmVCREIxQTRLYVdCTlk4Z0VHSlgxU0xqRFlnVlbSAdIBQVVfeXFMUHNzTG45Y0plMEJBYk40aFQtLXBuSU5PcGRPT1dYRmJrRVJjNk5LcTB6elA0V2JfY0tybXdhbVBBVFlEM1JxbTAwNHlxMmptQ3gxYVlnWGNzRUE0MlUzTm5tY29lQjBVY21LcC03ZXV3OFZfMzJTUHE1THJQRVRKNXhnTTQ2aHJ1QWkwY2pPeE1UQ1ZJYTB1T1pXWVhwbVJyZFlzdk9VTHlmNDJnX05DbzFXdm82Sjh3Wmt1QWc0OXY3VzJpYVlfTW5oc1BlOTFUVXpn?oc=5",
+      "title": "J&K Statehood Debate Highlights Clash Between Elected Officials and LG",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakRZME1YdUZkaHVzTVJnT1FqRUw5X1JieFE3d1RTU2dnblk0SUdaREFZckt4YjJaeTRmOTk3cWxZYmFqWlhlYjlyTGtzWnVwZ2w3NFFTWjdybW5QRmRWSC15bGYtVGVsY1IxOUllM01iQlZDRWJRUHlWdi1rMjF6VXM4VzFhNG1OWGFoNU8xM2Foa2dDcjMwTFZDMUVzazdZSHZSZ3FyZ1hzNkFBMmZhdNIBtgFBVV95cUxOb2EwRUFUSFJnYUZHd3JUYVluU25LTmdYdWlEbllrY2N1bFBjcm5YWHNzck11dzB5S2Itb0lmSU1zMndxTXZDSEpWTEJsYndtSzN1UWF6SXowb3piMWJDSWU4aGY0M2hsSHlfRUZLZFhKNDV0NVNPVTlZd1RtdC1XamVfWW9QNmdVdU5XNmlJTkdSNWxNOGdOSGE3NURQWlduVkFldWVYUHQxOGIwNzNFa2tPZWFzZw?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
-      "title": "Blast at Mangaluru MRPL Leaves One Dead, 12 Injured",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3JwOFA0c2NXaWZHVEF1T2RwZTVjYjRnWEU4OGVFZjFCZ1hjeDNjZng3bDJwYWx3UTJDTWx5VW9aa1lHbk85b1o3eDhhanAwMDU5R1lyRHVBMUNkc3RyRzBuRnJ0WHBIR3Jtc2RRUldEQ1hscGVtNXdRY2dWMFFOdXN0ZU9OLWlCQ1ppMzRVRm5vTkZGMGlZWnQ0VFRsT0xoTmhtcFBR0gGrAUFVX3lxTFA5aGxyNVFldzZLTlF4cTd6RkF2MlhOSU84MFRSeVJleXhIM1NWaEp0WHhNZXl5Y0tmbzVyQl9zVWRtRHl1NXlKbDNzcE16dkU0cXdhNGpqc3ZIalBrYzFmaFlWN284NTZsZXROM0VxOWtrZnJoN01SaGJDdkNhZDRwSzlWdTk5dGxsQnh4WG1kQjRObzk2Q0ZlcDFxV3RUaFdENTJLZl9OcXhKMA?oc=5",
+      "title": "Congress Demands Two Cabinet Berths, Rejects NC's One-Seat Proposal",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFEyOGZoa0xERDBhcTg5NE0xOXhLdlpzdmMzOHNIZHNNMFphNi0wSWo4YnRsN0JaNXJfTGE2aUNURHhmY0hreDllcEJDMXpoQzRVMVkzT1lUeWREbGExQzY0RVFLSExJelExSmNSLUZOYzRPVFdiMEg4N2l2RERXOUhzbERJLXVOTnBOU05CRGh3bWc0N2pkNG1TZWh3bkZRRnptb294WFo4dF9LVmdncnZ0NkhDeVdSdDgyeDlBbHl1bWtXYTcza1I3ZU0yN1HSAdQBQVVfeXFMT3BqRVlxZlhhSEJTdXFjTlF4OTM4Qm5sdF8yZGhmTGdXTEp6Q0NtNEo1b0pqZTVNNkRzN1pEdnBXYk9tXzBXSzFCWjBLdmFEdXlGTTloQlRkLWVJMnoybTBRbXQ2M1hXdjE3VlVZX244QU9hZUotSU01NDZWYVpXX3hrT05vRkVtRXlZS0tFMTVCZVE4N0NyQXJuOVp1R0ljSE5CampjQmphTWI2SGtrZTVEdEVjamF6eThlUzNlYUxUQ2Rzd1M0bUYtT2RUWGF5UFlZWVI?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
-      "title": "\u0915\u0948\u092a\u094d\u091f\u0928 \u0938\u094d\u092e\u093f\u0924 \u092e\u091a\u094d\u091b\u0930 \u0915\u0940 \u092b\u094d\u0932\u093e\u0908\u0926\u0941\u092c\u0908 \u092b\u094d\u0932\u093e\u0907\u091f \u0928\u0947 \u091f\u094d\u0930\u0902\u092a \u0914\u0930 \u0928\u0947\u0924\u0928\u094d\u092f\u093e\u0939\u0942 \u0915\u094b \u0915\u093f\u092f\u093e \u092a\u094d\u0930\u092d\u093e\u0935\u093f\u0924",
-      "link": "https://www.bbc.com/hindi/articles/cwzrzrl333evo?at_medium=RSS&at_campaign=rss",
+      "title": "\u092b\u094d\u0932\u093e\u0908\u0926\u0941\u092c\u0908 \u092b\u093c\u094d\u0932\u093e\u0907\u091f: \u0915\u094b-\u092a\u093e\u092f\u0932\u091f \u0938\u094d\u092e\u093f\u0924 \u092e\u091a\u094d\u091b\u0930 \u092a\u0930 \u0939\u092e\u0932\u0947 \u0915\u093e \u0906\u0930\u094b\u092a\u0940 \u0915\u094c\u0928?",
+      "link": "https://www.bbc.com/hindi/articles/ck5yeyew4vjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u092e\u093e\u0930\u094d\u0915\u094b \u0930\u0941\u092c\u093f\u092f\u094b \u0928\u0947 \u0908\u0930\u093e\u0928\u0940 \u0935\u093f\u0926\u0947\u0936 \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u094b \u0928\u094d\u092f\u0942\u092f\u0949\u0930\u094d\u0915 \u091b\u094b\u0921\u093c\u0928\u0947 \u0915\u094b \u0915\u0939\u093e, \u0908\u0930\u093e\u0928 \u0915\u093e \u091c\u0935\u093e\u092c",
-      "link": "https://www.bbc.com/hindi/articles/cmdx0xg24xdpo?at_medium=RSS&at_campaign=rss",
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u091c\u0902\u0924\u0930-\u092e\u0902\u0924\u0930 \u092a\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u0930\u094b\u0915\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0921\u093c\u0947 \u0907\u0902\u0924\u091c\u093c\u093e\u092e \u0915\u093f\u090f",
+      "link": "https://www.bbc.co.uk/hindi/live/c6pvev31wej0t?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u092e\u0941\u0930\u094d\u092e\u0942 \u0914\u0930 \u091c\u092f\u0936\u0902\u0915\u0930 \u0928\u0947 \u0915\u0948\u092a\u094d\u091f\u0928 \u0938\u094d\u092e\u093f\u0924 \u092e\u091a\u094d\u091b\u0930 \u092a\u0930 \u0915\u094d\u092f\u093e \u0915\u0939\u093e?",
-      "link": "https://www.bbc.co.uk/hindi/live/cmy0z08ljjq2t?at_medium=RSS&at_campaign=rss",
+      "title": "\"\u0938\u094d\u092e\u093f\u0924 \u092e\u091a\u094d\u091b\u0930 \u092a\u0930 \u0935\u093f\u0926\u0947\u0936\u0940 \u092e\u0940\u0921\u093f\u092f\u093e \u0915\u0940 \u091a\u0930\u094d\u091a\u093e\u090f\u0902: '\u0905\u0917\u0930 \u092e\u0948\u0902 \u0928\u0939\u0940\u0902 \u092c\u091a\u093e, \u0924\u094b \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0938\u0902\u0926\u0947\u0936 \u092d\u0947\u091c\u0928\u093e'\"",
+      "link": "https://www.bbc.com/hindi/articles/cvj64632pdlno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u0907\u0902\u0921\u093f\u092f\u093e \u0917\u0920\u092c\u0902\u0927\u0928: \u0915\u094d\u092f\u093e \u092e\u094b\u0926\u0940 \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u0935\u093f\u092a\u0915\u094d\u0937 \u0915\u0947 \u0932\u093f\u090f \u0939\u0948 \u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u093e \u0938\u092e\u092f?",
-      "link": "https://www.bbc.com/hindi/articles/c6wyzyjyey22o?at_medium=RSS&at_campaign=rss",
+      "title": "\u0928\u0947\u0924\u0928\u094d\u092f\u093e\u0939\u0942 \u0915\u093e \u091c\u0935\u093e\u092c: \u0907\u0938\u0930\u093e\u0907\u0932 \u0915\u0940 \u0909\u0921\u093c\u093e\u0928 \u092e\u0947\u0902 \u0913\u092e\u093e\u0928\u0940 \u092a\u093e\u092f\u0932\u091f \u0915\u094b \u0915\u0948\u0938\u0947 \u092e\u093f\u0932\u0940 \u0907\u091c\u093e\u091c\u093c\u0924?",
+      "link": "https://www.bbc.com/hindi/articles/cmx2z2wvv453o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u092d\u093e\u091c\u092a\u093e \u0915\u0940 \u0928\u091c\u093c\u0930 \u0928\u094c\u0902\u0935\u0940 \u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u0938\u0940\u091f \u092a\u0930, 25 \u0935\u094b\u091f\u094b\u0902 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924, \u0938\u092a\u093e \u092c\u093e\u0917\u093f\u092f\u094b\u0902 \u092a\u0930 \u0927\u094d\u092f\u093e\u0928",
-      "link": "https://www.amarujala.com/lucknow/rajya-sabha-elections-in-up-after-winning-eight-seats-the-bjp-is-eyeing-a-ninth-needing-25-more-votes-2026-10-01",
+      "title": "\u091a\u093e\u0915\u0942\u092c\u093e\u091c\u0940 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0917\u094d\u0930\u094b\u0915 \u0928\u0947 \u0915\u0948\u092a\u094d\u091f\u0928 \u0915\u093e \u0928\u093e\u092e \u0917\u0932\u0924 \u092c\u0924\u093e\u092f\u093e, \u092f\u0942\u091c\u0930\u094d\u0938 \u0928\u0947 \u0915\u093f\u092f\u093e \u091f\u094d\u0930\u094b\u0932",
+      "link": "https://www.amarujala.com/world/grok-translation-error-turns-flydubai-captain-smit-machchhar-into-captain-mosquito-smith-2026-10-02",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "PM Praises Pilot's Family, Calls Captain Smith a Hero: \"The Nation is Proud\"",
-      "link": "https://www.amarujala.com/india-news/pm-modi-praise-flydubai-pilot-smit-machhar-said-you-are-hero-proud-of-you-2026-10-01",
+      "title": "CJP Gains Lawyers' Support: Will Fight Cases Free if Repression Occurs, Announces Before Maharashtra Protest",
+      "link": "https://www.amarujala.com/india-news/palghar-lawyers-association-backs-cjp-offers-free-legal-assistance-to-members-2026-10-02",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "AI Name Change: Are Trump Supporters Benefiting from Executive Order Misuse?",
-      "link": "https://www.amarujala.com/world/donald-trump-renames-ai-to-super-intelligence-si-domain-controversy-explainer-hindi-2026-10-01",
+      "title": "LPU Violence: Viral Figure Arrested, Minor Caught; 12 Arrested So Far",
+      "link": "https://www.amarujala.com/punjab/jalandhar/lpu-violence-minor-student-arrested-from-mandi-photo-viral-12-arrested-so-far-2026-10-02",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "\u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u092d\u093e\u0930\u0924\u0940\u092f \u092a\u093e\u092f\u0932\u091f \u0915\u0940 \u092c\u0939\u093e\u0926\u0941\u0930\u0940 \u0915\u0940 \u0938\u0930\u093e\u0939\u0928\u093e, \u0915\u0939\u093e: '\u0935\u0939 \u0939\u0940\u0930\u094b \u0939\u0948\u0902'",
-      "link": "https://www.amarujala.com/world/donald-trump-calls-indian-pilot-smit-machchhar-a-hero-after-flydubai-mid-air-attack-2026-10-01",
+      "title": "\u092a\u0941\u0924\u093f\u0928 \u0928\u0947 \u092e\u094b\u0926\u0940 \u0915\u0940 \u0924\u093e\u0930\u0940\u092b, \u092a\u0936\u094d\u091a\u093f\u092e \u0915\u094b \u091a\u0947\u0924\u093e\u092f\u093e: \u0930\u0942\u0938 \u092a\u0930 \u0939\u092e\u0932\u093e \u0939\u0941\u0906 \u0924\u094b \u0915\u0930\u0947\u0902\u0917\u0947 \u0939\u0930 \u0939\u0925\u093f\u092f\u093e\u0930 \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932",
+      "link": "https://www.amarujala.com/world/putin-praises-pm-modi-efforts-ukraine-conflict-india-economic-corridor-warns-use-all-weapons-nato-kaliningrad-2026-10-02",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "Cornell Student Transforms Shame into Pursuit of Justice",
+      "title": "Hochul Appoints Letitia James as Special Prosecutor for Cornell Case",
+      "link": "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html",
+      "source": "New York Times",
+      "group": "us"
+    },
+    {
+      "title": "Cornell Students Demand Change at Heated Public Meeting",
+      "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-public-hearing.html",
+      "source": "New York Times",
+      "group": "us"
+    },
+    {
+      "title": "Cornell Student Transforms Shame into Action",
       "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Five Key Takeaways from the Cornell Rape Investigation",
-      "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html",
+      "title": "Cornell Sex Assault Lawsuit: Chi Phi Members Offer Conflicting Accounts",
+      "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Tennessee Inmate Christa Pike Survives Execution Attempts, Lawyers Report",
-      "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
-      "source": "New York Times",
-      "group": "us"
-    },
-    {
-      "title": "Key Details on Christa Pike's Execution Attempt",
-      "link": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html",
-      "source": "New York Times",
-      "group": "us"
-    },
-    {
-      "title": "Lindsay Clancy's Lawyer Disputes Claims of Her Killing Children",
-      "link": "https://www.washingtonpost.com/nation/2026/09/30/why-lindsay-clancys-lawyer-is-disputing-whether-she-killed-her-children/",
+      "title": "Cornell Investigation into Alleged Fraternity Rape Revealed in Unsealed Documents",
+      "link": "https://www.washingtonpost.com/education/2026/10/01/unsealed-documents-detail-cornell-investigation-into-alleged-rape-fraternity-house/",
       "source": "Washington Post",
       "group": "us"
     },
     {
-      "title": "Watchdog: Fed Mismanaged Renovations Trump Targeted to Oust Powell",
-      "link": "https://www.washingtonpost.com/business/2026/09/30/watchdog-finds-fed-mishandled-renovations-that-trump-tried-oust-powell-over/",
+      "title": "Larry Nassar Among Thousands Stripped from Michigan Sex Offender Registry",
+      "link": "https://www.washingtonpost.com/politics/2026/10/01/larry-nassar-among-thousands-sex-offenders-removed-michigan-registry/",
       "source": "Washington Post",
       "group": "us"
     },
     {
-      "title": "Democrats unable to block Trump's $810M fund cancellation approved by Congress",
-      "link": "https://www.washingtonpost.com/business/2026/09/30/trump-will-be-allowed-do-an-810-million-pocket-recission/",
+      "title": "Rapper Rick Ross Arrested in Miami Beach on Domestic Violence Charges",
+      "link": "https://www.washingtonpost.com/nation/2026/10/01/rapper-rick-ross-arrested-miami-beach-domestic-violence-charges/",
       "source": "Washington Post",
       "group": "us"
     },
     {
-      "title": "University of Michigan Halts Plan to Eliminate Grades",
-      "link": "https://www.washingtonpost.com/education/2026/09/30/university-michigan-pauses-plan-stop-issuing-grades/",
+      "title": "Family of Ren\u00e9e Good sues Trump officials, claims death was 'not an accident'",
+      "link": "https://www.washingtonpost.com/immigration/2026/10/01/rene-goods-family-sues-trump-officials-saying-death-was-not-an-accident/",
       "source": "Washington Post",
       "group": "us"
     },
@@ -200,7 +200,7 @@
       "group": "eu"
     },
     {
-      "title": "South African Leader Calls on Men to Address Gender-Based Violence Amid Killings",
+      "title": "South African leader calls on men to address gender-based violence amid rising killings",
       "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
       "source": "The Guardian",
       "group": "eu"
@@ -218,26 +218,26 @@
       "group": "eu"
     },
     {
-      "title": "Berlin Leftists Aim to Forge New Coalition in Germany",
-      "link": "https://www.dw.com/en/germany-news-berlin-leftists-seek-to-pave-way-for-coalition/live-79496180?maca=en-rss-en-all-1573-rdf",
+      "title": "Ukraine and South Korea at Odds Over Transfer of Two North Korean Prisoners",
+      "link": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Swiss Glaciers Lose Over 5% Ice Volume by 2026",
-      "link": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-rdf",
+      "title": "Turkey's Stock Market Scandal Hits 500,000 Investors; Arrests Made, Politician Resigns",
+      "link": "https://www.dw.com/en/turkey-s-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "US Military Reduces Generals and Admirals by 20%, Hegseth Reports",
-      "link": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-rdf",
+      "title": "US Urges EU Allies to Tap Diesel Stockpiles",
+      "link": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "France Sees Hundreds Arrested Amid Escalating Student Protests",
-      "link": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-rdf",
+      "title": "New Crew Sets Record for Fastest US Flight to ISS",
+      "link": "https://www.dw.com/en/new-crew-makes-the-quickest-us-flight-to-iss/a-79509556?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     }
