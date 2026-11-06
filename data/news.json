@@ -1,76 +1,94 @@
 {
-  "updated": "2026-11-05 07:09:22.907145",
+  "updated": "2026-11-06 07:08:55.703071",
   "headlines": [
     {
-      "title": "Mumbai Crime Branch Arrests Techie for Threat Emails to Ayushmann Khurrana, Tusshar Kapoor",
-      "link": "https://www.thehindu.com/news/cities/mumbai/threat-emails-to-ayushmann-khurrana-tusshar-kapoor-mumbai-crime-branch-arrests-techie-from-bengaluru/article71668622.ece",
+      "title": "Keralam Excise Commissioner Seeram Sambasiva Rao Transferred Amid Bar License Dispute",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-excise-commissioner-seeram-sambasiva-rao-shifted-amid-differences-with-minister-over-bar-licence/article71673257.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Mundamveli P&T Apartment Residents Hope for Breakthrough After 100 Days of Protests",
-      "link": "https://www.thehindu.com/news/national/kerala/after-100-days-of-protests-mundamveli-pt-apartment-residents-await-breakthrough-at-key-keralam-govt-meet-on-rehabilitation/article71668776.ece",
+      "title": "Manaveeyam Veedhi: The Political Battleground for BJP and CPI(M) in Kerala's Capital",
+      "link": "https://www.thehindu.com/news/national/kerala/why-manaveeyam-veedhi-is-at-the-centre-of-a-political-battle-between-bjp-cpim-in-keralam-capital/article71670739.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Keralam Education Dept Questions Calicut University on Pro-V-C Appointment",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-higher-education-dept-seeks-explanation-from-calicut-university-over-pro-v-cs-appointment/article71668767.ece",
+      "title": "Hyderabad Startup Launches India's First Private Space Debris Recovery Facility",
+      "link": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Cyclone Murasu: Bhadradri Hit by Heavy Rains on November 4",
-      "link": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece",
+      "title": "Scars of Chainsaw Attack at Andhra School Still Haunt Community",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-school-attack-leaves-parents-in-state-of-panic/article71671361.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Nithya Raman Becomes Los Angeles' First Indian-Origin Mayor",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-origin-nithya-raman-elected-los-angeles-mayor-defeats-karen-bass/articleshow/135559698.cms",
+      "title": "CJI Links Delhi's Air Pollution to Vehicle Emissions, Wishes for Enjoyable Weather",
+      "link": "https://timesofindia.indiatimes.com/india/hope-you-are-enjoying-delhi-weather-cjis-remark-as-sc-takes-up-delhi-ncr-pollution/articleshow/135597208.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Two Dead in Delhi's Chawri Bazaar After 3-Storey Building Collapse",
-      "link": "https://timesofindia.indiatimes.com/city/delhi/3-storey-under-construction-building-collapses-near-delhis-chawri-bazaar-metro-station-several-feared-trapped/articleshow/135560583.cms",
+      "title": "Man Murders Wife and Six Relatives, Disposes Bodies Across Bengaluru",
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-family-massacre-man-kills-wife-mother-in-law-two-brothers-in-law-two-sisters-in-law-and-7-year-old-nephew/articleshow/135591101.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Elon Musk's $500M Midterm Gamble Backfires, Hurting Tesla and SpaceX Stocks",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/elon-musks-nearly-500-million-us-midterm-gamble-backfires-tesla-spacex-stocks-take-a-hit/articleshow/135560211.cms",
+      "title": "Abdul El-Sayed's Senate Win Ignites Arab Pride: From 'Habibi' to 'Hamdulillah'",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/from-habibi-to-hamdulillah-abdul-el-sayeds-senate-victory-sparks-arab-pride/articleshow/135595029.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Bengaluru Man Kills Intruder Caught with Daughter at Home",
-      "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-man-beats-daughters-boyfriend-to-death-after-catching-them-together-at-home/articleshow/135560416.cms",
+      "title": "Jharkhand HC Overturns Soren Govt's Cancellation of JSSC CGL Exam",
+      "link": "https://timesofindia.indiatimes.com/india/jharkhand-high-court-quashes-state-governments-decision-to-cancel-jssc-cgl-exam/articleshow/135597369.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Election Commission Drops Controversial SIR Clause in Form 6 U-Turn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU29GR1pjY0FERDNyNkNXWEJnTW1VZEJpWEhZRy13ODJDSnQ4WUp5NEl3N1FhbHZ5S2oxc0p6VWQyRnVGeWFONkNlRkh4Q09zT25rMkhTUi02alNySU04YjN2YU9Tc0xoR01GZDJMOERFeG42SEJOT1J6SWJIYmlyZk1DUkRsOVZpU2tyQ1VkdDFvdGtfQktvamxva21LUdIBpAFBVV95cUxObWpBbnNoSi16UlpDbDlyTjYtMmswUG01dGZmT2RCejY0ODAtcGkyWFUzd21ydUR6SWdTcGJ0YUp1QkEyOUlOZTNMMTZudFR0OXduR2k5d3RYcS01OXNKUFJuV1BISFl6aXNQTk1ic2lrSWFybTFhdURJbjR3aV8zSGlTSE9uYWFhU3dnLS1pNUhkd1EzeVYtTHRoX1QwbWRtSDFJQQ?oc=5",
+      "title": "Kochi Model Loses 36 Kg with One Simple Change",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTF6YVNidkJ6UUNfcWhsNmJzSGduVFpCNTludXFaRXFSQkxxWXdoMk53WWN5dzBkSWw4NUNCRWtKWWVTS3QxMVBsVV93d04zUlNnUmZxMkZFdGtJVDhHU2hXVTc4SE5GUHl2cFJfQ3puTDBMcVg0ZVBwdk9RQVM1bHA2MmJJYlExY0kzRy0ySUxvcTlJQXE3UVVQLWs2WXpJU1RMNUtBTmE2WHdw0gGzAUFVX3lxTFA5eHF4OUxodXVGakdRMkFFWTJfM3QwYlJSR1NfWnZZd1U4c2tpdmhNakpuUWh6ek9TaXZwaF8ybTlfVEstOXdSa1l3Zmxsa3dTcnRKSUdNMl9wczZKQUdnaGloTXFzRHExNm44Ul9LOUJvYmtpb25ZeUlqU083cWJ3bGZvNmlqUFh0dGtxTE95YXNYLVBLQmJNZVotQVo1VHNvLW1uLVZUa2Vwb2ZBR0ROLWZV?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "Woman sheds 20 kilos, shares transformation: 'Mental weight was heavier'",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnNmZWtYSzIwY1JEYWpxS19oTG9PVmQwWHNhaVlnTDVxMHFuZi1kQUJDeHZFTEplSjVld1hBT3k4VUdBWWM1TmtEQTFuc3B3STlVSkdWMmZGMC15b3QwRkxWTmxyWXdGQzdOcVE2ek14UlhzTHJvMndFRzZ4bW5sa2cybWZKRGloc25pak8yUnBqLXBORFNrRFNiaC1RM1NpenFqRzNOa2JtSnJxc2lORW44MnBIemd0ejR4VFZR0gHEAUFVX3lxTE8xQ1dxcVNpVktnczBYSHF2X1VaVTBDZEd0em5NMmVJd2c2MGM4eUpQLUl5WjJJZlBPRTYxWGJadkVDOFpYbG9pSU1ZdlB5RFk0b3RWRFhERzhfaWNzTzRLZ0hTTWlMbFpqQ1BxS3p6UnBuUDktcmtKaTVwaWtrTTlGZjRKak0wZFI2R3JMMzlFd3kxR0VhWmRvLXdzVGZKRFhTZGpsT180eThjNWlTMk5YMWh6YjBnbkl0Ulh1enhlTHZEbnY?oc=5",
+      "title": "Canva's Layoffs: 6 Months' Pay, Free MacBooks, and Career Support Offered",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbjhjeG5zSFpQUHY1Q211Wkx4cks2NVZ1ZjlncExDcnc4andnc2k1TFZvZER2TXBMV21VcDZNS3J3YTBmR1NrV3lxdmNuek1ZaHRsUlFEUllTd2UxUG5URDYyTk1hX1h3Sjk3NnZVdXRMWWdvX3pSamNWc2FvZ1k2dUR0Tk1tU0QxSHc5Z2xGVC1IVkZmN1ZnMW1TT1VPUjRYd0p2VEhFU181RFpZSXp0UXJnRk9Kb0dQdjlhNEQ2VXJXVHJQZWdJNVVEWUpVZS01TWhISdIB2wFBVV95cUxNNVp3MExNR3JwdGh3RC02TVpBdV84cVlvMzd1UWYzTGc4NDNYZkJDbmlRNHMzZjA1Y3U1LTFGOS1ReVgxMTVMSG9iYkZzVGVTNmkzcUhLNjJxM1FqSHNKUEgwYVZrZ2NjUWNPXzh0cmlNbW80VnVzcmRrRUZPRzQtMHZOMWIwS0dYRjhFcFNIWUtVamg2R1psVU9qcXU2dW9DZXJjRlQ3TERYOTI3a0NUcktQeTBxLVN1MVVKRmx5eFlLd3RtUkFDRnFKYTVjVmQwRnVRbzJkbE52WWs?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "BJP Ally Warns: No Entry for Bihar into UP",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQk1pc3FhUURzeFVCM0pLc01BckQtYVhLX21BOEM1cGhoRktzZW1wa2RlWUF6aE5EeGI0MS1vcE5Bdk9Yb0pvOW94TUNDNGEyQkVwdFRnUmtyREU5N2RieUcxZFRKNzlfVDlLajVBUGJxaTlraEZEV3otelh3ckFHSzhGdmdpZVlERDZUZXdtbHFtclZWeWhHaU43ZHJ6REhtMDRiYW1XeWEyMDVGUm5QRWY2dVhpV0ZNYkHSAcABQVVfeXFMTWtjUzdvdV9jNTBxb19mb2Z5OVA4Wmx5a0V0bE9xN1k0cVhJcDZfZUpibm5VNG1JUjN2OFFmUFZkZ2Y4Z0sxNEdUR2xZTUJLTkJ5S0xMSEZ3T1EyUGwyaE5xVUVWb0JTRlhWRllyWXFtU0ZSLU1iTk9YdXFSZUVKWXpUejg3VE0zUzNCSzRSVXJGdGN1WFExdE9tS0djSFFOeEJ3TDZRVmNWeTNGLXZZZ2RyNk8yaVNyeV80VnZXam9Y?oc=5",
+      "title": "Young IAS Officer Claims BJP MLA Threatened Him During Odisha Flood Duty",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWhEZUM0SU1SRl9wRzVZc2dqcEo4WEl4RC01ZThFck45NG1JUVJ4RnVSTGN1UEVMcGxVZnhrbnd1ZHJveE5SX3lpNENwa3AzbzdxdFpXb1JTTG5zNldjYU9UeE9vWllpOVpOVEpfeFMwSVlzcGtYUTBYbkIyTzNkdkNTMlRkWGdUOWFRbTV0WFVEdWlGTi1xOXRIWGhCQdIBpAFBVV95cUxPcHEyNHI4SnNPUzluTWRBNFAtbUl2MHR6WURMUTRKZ3Fxa09GelBaU1dObUlWdmsyUGZ6SS13cU1aWTlZMVp3MGdtWWotWkt5bWRyTWs1bXRhNmFNSEpuT3pqZWVPSUtKVDFQTkdxS0RTY0FabTY2YVNXVTY4WnpiQ09KMlc2NW5mZXdTSWtUVnNTSDJwRUE1alZPYThhS2U5WkRxZg?oc=5",
       "source": "Indian Express",
       "group": "national_english"
     },
     {
-      "title": "Delhi Optimistic as US Relations Shift After 18 Months of Tension",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnlIZ2JiZWVpR2ZIOV9BYjNOYmYwSTM4Q1FFY20tdUJrLTJjaTZpRmY5SHJRcDJ4N2NVV2VrQzdKQmlaczZ2TDBEdmxjTjJlMXRISklUMFFGRElqejRNSncxRHJKeGJSN01uNEs2MlJNN0xfYkMxZWlwcWVoZVVzclJyWkZGLWVDVnMzSFlsRUI5WFlhc09PWHZIaTE2MXp6cGhUX9IBqwFBVV95cUxPa3g2OTdhd1kxNTh6T2YxYk1CZDA2ODE3TFVZNjloeWpyRWxaZDlFSkN6bnZjd25lUnBKVzZLOHI5VFFoTE5MdzB4VFQtbEM4Qmh4RVk1ZjFIa3ByaFp5eWw1QnFBeTh1WGxsdDBjdFdUdWptdklocVpOdDJIbnFTN1kzdl9Ua1JTeHVzZXZ3Y3I1V0IzaVpBc2hXaEZKQVdBaC1VUC1PdEJwYVk?oc=5",
+      "title": "Home Ministry Eases Passport and Visa Rules for Foreign Nationals in India",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnlJWTFqYXJzQjNzSmRWZXRHRG9FTlRJVVR2MFNFcXFmWHpMSS15ZVdDNExQVUtCSG1xRnRwMlBxOTBUdHo3ZXVuOFk5bkxRTFFDcHVGZmtOblIzWlFKdTd0YnR4NWQ2cm52SXI2Zm5sWXUzdFMzeG1Kd05lU2VhNHNyTzV3U2tMUUhhZUNqa2YxbXE0TTdzZEI1bHQtdzBj0gGnAUFVX3lxTE9mbGFWdTh1aC11WFVGX29KY0hPZWNjWlJqV01Ca3FFdjB6NHgtX1l1dVRUN2NQMkxLc0V5YkpnNDVpZ0hoRks1ekNHNnpoTVRuMktieTFUT0hEUVVFdzNIRF9oNnZIV2ptNnVPUTZEOWhFYXBOdHI4cUNKTXY4SW5qRW5zcWRqUThnbC1Dc2Y3UjhfTnhvVHFkSTI5WHBqaTF6RllEb3VZ?oc=5",
       "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "Abdul El-Sayed's Senate Win Sparks Celebration in Karnataka's Bhatkal",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZGRsY3FVNmhPai10OVBsSlRtQzYtOTR0T3d6TVQwUXZjWXpQUWlVMW5iV09MYmdIZmdMbk5renBCV0FFQjRSYzloRHRsT0FMM0Q4bjgyREwzTXluTzRZU2VVRU56ampfVnhiV3lyRkNzOENLRlRBVVZMQTRfcGVXbEQycmJDQVFXTWNpV0Uwc3FLYU5CeWNLZm9RLVVaa3N6emRGNW5jTWVCb1ZGeURkZURkeXdiQW92VXZXTGg5a2VudDJnZHlzaU50ZlFzWlRPLTh4dzZ5OGlyanFpcjB30gHkAUFVX3lxTFBtWHJlUV90N3J1MUQ5cXU2VVBBQ3ZHblBmTmlXa21abE9SQjF6VGNSdTYwVmxyZ1JfR2lyWldod3ltY0VTaldIS0dxVm90NFV2VnhlUW5Cd1pjdmlKRk9QV3hKT0hwX3M3RnMwZm1MYk5Iak5EMUZhLTRpNm1HZlNWUXV1MFdPU0V0cTloLXp5UXdGMDRKdW9wN1pMZm1XS2hnQk5mek9SUkJrY3VlOEpoRXVDUmJqV3ozZmttTkJqcHVUakxneXU5b083ekZmY0lFVzc2V1FWcnQ3aXhJeFBpWDJoaw?oc=5",
+      "source": "Deccan Chronicle",
+      "group": "national_english"
+    },
+    {
+      "title": "Trump Aims to Preserve Oval Office and Cabinet Room as Historic Monuments",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmRPNTNFOTFPM2ZXOGNKWXp1d2NuQU9MU09oYmQyd3ZUWUFkbXA4RWk4UjQyRnNKSnNJczdHQzZEZldpOTVtYVVMb04zb0syMXozdy1aN2NOc1p3Z2xxWUdOSm5zY2RnTDd0eG5DUzg4ZGxfdllyR0xiNlJQaTVGZ2ZzRktRTGxuTm91MUVzczdDNFFhNm1xek9wODQ5NG44LWl5NkFRb1NZYWtVcC1CYmJSOUZtQUpGZjJXcVJnMG1NUU5BSkRqalZNQkdxTEJwNWxmU9IB2gFBVV95cUxNemx0VzZCRUpYcDdlRWVnOXFCTmlzam1lcGZNMXZwOEh1Y0FGQ3pTaTBENzRQMEtBZmZlVXVKRUNlR2NyUG1mSWZZbVVNRVBjZkR2QXgyTU9SdWVwdnJqTDV4Z0s2RUxvMHVRN2ZQeTVhTW1aNXBNeldiMGRMNjZUbTA1NnNFUFpqR3FZbVNtUnR0VFFNWjRYbFd2NmFJdmIzandWRGpTblVhN00zSGtFUVNEWFZQOTZjaHFtc3M5c0lwQ2RRTzVnb0FxNFVZcEZHeTZnQkVwcGFrUQ?oc=5",
+      "source": "Deccan Chronicle",
+      "group": "national_english"
+    },
+    {
+      "title": "Abdul El-Sayed: My South Indian Wife Made Me More Desi Than Arab",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPenc0LWQtLXZlR21OVlFTR3o4Z0lQRVJwV0YzM0dkYzRtNHo0dnhFa1Azd2kybk4wVWd5ZGRYdGpMR2daOVIzbmtlQ2JHWjNwbFpnRnhZcGJiUnpxbjlxVzN6YkE0Q00yRlR4ZE9uOTliSVBJTFlBRWNCS1VFMGliUTFLTkcxNUNZTjJmbXNnU3Q0dldtS192MGxZbHpYNDlIdFU3NVByLWkyVy1QcWJ4NjUwOVpNQk5RZXhXOXR6NUJGLTA0N2FzeGs2U07SAdIBQVVfeXFMUHptajluejlmWFoyQzA2SE5NbExtdDBDMVhHREgyOTFkSlpRS0Fuc3IycEZ6Xy1nYncyMXIycmJTb1JqajlNRk5rU2NVeWI4Y1p2ZDNGNlZUek9FMWlVZmo1OGJYVWYwMndYbGltejFfMmtYNk1ZUVltN0Rkb0hMdC02VzVGTThqd2tOM1MzOXEweDFWUHBpdVlOR3pLS3g0cXVYcmhrWXVVTDVXQ3JZQlltang2QjRZN0tMZ2g2RVM5TFBWMF9oNjduMG9fZ0VtczFn?oc=5",
+      "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
@@ -80,103 +98,85 @@
       "group": "national_english"
     },
     {
-      "title": "Bigg Boss Telugu Accused of Favoring Celebrities Over Contestants",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1ExVHFMWFg3TXoxbFRFRm4tMmZOUnJ6MmJFdVZBV05DYzRxb1FTX2ZvYl9kSkpCVUFIR0hTYlBtUnVPNkFOcm0yY1h1ekhZU21LdFY4OUtXWlJidURnRTJGSHBYb3VOcUdPWU9DelphbVhnNE9RMkF4ekFaV1lqbEpTZkJNa1ljb1dVSS14WFA2LTBQcG8zRFlsY3hyMHlsUzllUlByUlB3MnVaYUxmbDZhRHZtNXU2OGloUdIBwgFBVV95cUxQVGY4UjNFMVpjNEw1YmR4QUxPb2tyaGNKYUR2TVRYSjJrOWdhdkZjQzlBdENGWV9QZnJ4MlFRbVJRdzZOVXBwNXFOaFN5WFNJeXp4Yjlva1pHQ0dFd2dyN05aRm5IN2I1VTJTZllnVjlMV3U5OFZxVlhnQi1CYTZtaEZNSWIzS1AxN2dsZXYwRXdDS2wwOHBaZ2xBVWgyaEkyV0p1Nlc3UmVPY0I0YjFvNkxGRWJHampLYzJvTzlhbFp2UQ?oc=5",
-      "source": "Deccan Chronicle",
-      "group": "national_english"
-    },
-    {
-      "title": "10 SDRF and Fire Service Personnel Missing in Khammam",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa25LX2N4VE51Q2VXQmlTTUZoVTJVczlnQkFEZmpJYy1fX1JlVkZVNVhXLXBLVlE5QzJ5VnEzODl0UGZVZkFnNWlGYnE2YjNvbXJZdUpVUW1JUDYzV0FzSElMSEk3b1NXNUZFUFpHbkZ5MWJBOTZJbnNBWlpQeTZEZEcybU1MTHJBOUs1Ulc1UHV3aE9fdTE3OVJ1THQ5UGduT3lkQWtHZ1I1TFRWSEhjM2JXVE9qcVBhVk1ibzBlRUM5aS1fMVFMWWxKMjU1WEJBRmc5b0NsVGNqMXYtb0JxWnJCSFhkQdIB6wFBVV95cUxNYS1UQ0o3TUZ3QmM4NE1GUmptcjVldTM3TzVCZWhqTF9PMHhCUUtvLTNGanpmMDdaQ2hTSV9DWmd6NjJOWGxURUhZU1RhT3NlUllKaDlKVVBvaG9qWVdsVnFXamN6TFZnWnZMS0luMnJXT2xVMUpsQzM1bTBVMU1MTWNHSm1YMjZiMjBkZEcwYkU1dW9IcFo0S2p4RHBhRjV1Ynh6dHpJUFJ1VUVmb2lGMGxwSmtZRWhSNDVPU2RmX01ZUHlMUzRTcjhrbFItc2tleURKZUFtNmN3MHpNRUVnLU1YdG5DWGJCOVZj?oc=5",
-      "source": "Deccan Chronicle",
-      "group": "national_english"
-    },
-    {
-      "title": "CAIT Urges Rahul Gandhi to Support Nationwide 'Dhikkar Diwas'",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEdUS3FXUGM1b2RJQmtSVm1NTm11b0ZYTjJVUTcxRmZxM1VJbWJTc1FGTEdqdldqMFJfd3d2aDhYTktReFFJQnpqZTZ3Tk9KeUdEdXZnZFVfWk9RLXZDSXNCYTF2cTRqYUp6QXIwSjk4UnAwbTYtakJyUGpHRDVBaFB1Q0F6cVRuNGhGRkpyd3Z3SkIxZXZHaGREcDJlWHU1VE1EWGtnc2dLWG9URnfSAbMBQVVfeXFMT29NMWdGOFZ6NksyWHFENWlKNU1vY1Y2M1hEdHZqcHZVemxPaExmZVpNUUc4ZXdvRndXZ2d5RC1wSXRmV2Jwd1pOek5oRUhLVnlIakV0S2JSQnBleWZwdjF4bVBpNW1ZZDNhRV9naHJjUVZ5NzdyU0xySHVvLUhERzZ3cGRpVmNTdVpOWkQ4X0sxWmxmVlB3YUJhLUpyZWdJbVhWSDNpdkFwQk1LeWpHRlVQWGs?oc=5",
-      "source": "Deccan Chronicle",
-      "group": "national_english"
-    },
-    {
-      "title": "\u0907\u0938\u0930\u093e\u0907\u0932 \u092e\u0947\u0902 \u0932\u094b\u0917 \u091f\u094d\u0930\u0902\u092a \u0915\u0940 \u092a\u093e\u0930\u094d\u091f\u0940 \u0915\u0940 \u092e\u093f\u0921\u091f\u0930\u094d\u092e \u0939\u093e\u0930 \u092a\u0930 \u0915\u094d\u092f\u093e \u0938\u094b\u091a\u0924\u0947 \u0939\u0948\u0902?",
-      "link": "https://www.bbc.com/hindi/articles/cmvg6y026j3do?at_medium=RSS&at_campaign=rss",
+      "title": "\u0915\u094d\u092f\u093e 13 \u0928\u0935\u0902\u092c\u0930 2026 \u0915\u094b \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u0905\u0902\u0924 \u0939\u094b\u0917\u093e? \u092a\u0941\u0930\u093e\u0928\u0940 \u092d\u0935\u093f\u0937\u094d\u092f\u0935\u093e\u0923\u0940 \u092b\u093f\u0930 \u091a\u0930\u094d\u091a\u093e \u092e\u0947\u0902",
+      "link": "https://www.bbc.com/hindi/articles/c5zjxxepvrkgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "Global Crude Oil Prices Drop Amid U.S. Midterm Election Results",
-      "link": "https://www.bbc.co.uk/hindi/live/cm79p0rpegrpt?at_medium=RSS&at_campaign=rss",
+      "title": "\u0924\u0947\u091c\u093c \u0930\u092b\u093c\u094d\u0924\u093e\u0930 \u091f\u094d\u0930\u0915 \u0928\u0947 \u0938\u0921\u093c\u0915 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e \u0926\u0947\u0916\u0928\u0947 \u0906\u0908 \u092d\u0940\u0921\u093c \u0915\u094b \u0915\u0941\u091a\u0932\u093e, 7 \u0915\u0940 \u092e\u094c\u0924",
+      "link": "https://www.bbc.co.uk/hindi/live/cwe9llnvvlpmt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u0915\u094d\u092f\u093e \u092e\u093f\u0921\u091f\u0930\u094d\u092e \u0939\u093e\u0930 \u0915\u0947 \u092c\u093e\u0926 \u091f\u094d\u0930\u0902\u092a \u0915\u094b \u092e\u0939\u093e\u092d\u093f\u092f\u094b\u0917 \u0938\u0947 \u0939\u091f\u093e\u0928\u093e \u0906\u0938\u093e\u0928 \u0939\u094b\u0917\u093e?",
-      "link": "https://www.bbc.com/hindi/articles/cwy8lzg30mm9o?at_medium=RSS&at_campaign=rss",
+      "title": "\u0938\u093f\u0928\u0947\u092e\u093e \u0915\u0940 \u0915\u092e\u093e\u0908 \u0914\u0930 \u092b\u093c\u093f\u0932\u094d\u092e \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u0940 \u091a\u0941\u0928\u094c\u0924\u093f\u092f\u093e\u0901: \u090f\u0915 \u0928\u091c\u093c\u0930",
+      "link": "https://www.bbc.com/hindi/articles/c6d9338yq5dyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "'\u0930\u093e\u092e\u093e\u092f\u0923': \u0930\u0923\u092c\u0940\u0930 \u0915\u092a\u0942\u0930 \u0914\u0930 \u0938\u093e\u0908 \u092a\u0932\u094d\u0932\u0935\u0940 \u0915\u0940 \u092b\u093c\u093f\u0932\u094d\u092e \u0935\u093f\u0935\u093e\u0926\u094b\u0902 \u092e\u0947\u0902 \u0918\u093f\u0930\u0940 \u0930\u093f\u0932\u0940\u091c\u093c \u0938\u0947 \u092a\u0939\u0932\u0947",
-      "link": "https://www.bbc.com/hindi/articles/cqdr873lp7vno?at_medium=RSS&at_campaign=rss",
+      "title": "\u0932\u0949\u0938 \u090f\u0902\u091c\u0947\u0932\u0947\u0938 \u0915\u0940 \u0928\u0908 \u092e\u0947\u092f\u0930 \u0928\u093f\u0924\u094d\u092f\u093e \u0930\u092e\u0928: \u091c\u094b\u0939\u0930\u093e\u0928 \u092e\u092e\u0926\u093e\u0928\u0940 \u0938\u0947 \u0924\u0941\u0932\u0928\u093e",
+      "link": "https://www.bbc.com/hindi/articles/ckreyyw7lrz9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u0926\u093f\u0932\u094d\u0932\u0940: \u091a\u093e\u0935\u0921\u093c\u0940 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092e\u0902\u091c\u093f\u0932\u093e \u0907\u092e\u093e\u0930\u0924 \u0922\u0939\u0940, \u0926\u094b \u0915\u0940 \u092e\u094c\u0924, \u090f\u0915 \u0918\u093e\u092f\u0932",
-      "link": "https://www.amarujala.com/delhi-ncr/three-storey-under-construction-building-collapsed-in-chawri-bazaar-2026-11-05",
+      "title": "Supreme Court Blasts Delhi's Air Quality: Cars Blamed for Pollution Crisis",
+      "link": "https://www.amarujala.com/india-news/supreme-court-flags-stubble-burning-and-vehicular-pollution-in-delhi-ncr-2026-11-06",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "\u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f \u0938\u0947 \u0906\u091c\u092e \u0916\u093e\u0902 \u0915\u094b \u091d\u091f\u0915\u093e, \u0908\u0921\u0940 \u0917\u093f\u0930\u092b\u094d\u0924\u093e\u0930\u0940 \u092f\u093e\u091a\u093f\u0915\u093e \u0939\u093e\u0908\u0915\u094b\u0930\u094d\u091f \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930",
-      "link": "https://www.amarujala.com/india-news/supreme-court-transfers-azam-khan-plea-against-ed-arrest-to-allahabad-high-court-hearing-on-november-16-2026-11-05",
+      "title": "\u0938\u0940\u090f\u092e \u092f\u094b\u0917\u0940 \u0928\u0947 \u0928\u093f\u092f\u0941\u0915\u094d\u0924\u093f \u092a\u0924\u094d\u0930 \u0926\u0947\u0915\u0930 \u0905\u092d\u094d\u092f\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0938\u0947 \u092a\u0942\u091b\u0947 \u0924\u0940\u0928 \u0938\u0935\u093e\u0932",
+      "link": "https://www.amarujala.com/lucknow/up-chief-minister-yogi-to-hand-over-appointment-letters-to-selected-police-recruits-2026-11-06",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "\u0917\u094d\u0930\u0947\u0928\u094b \u0935\u0947\u0938\u094d\u091f \u0915\u093e \u0917\u094c\u0921\u093c \u0905\u0902\u0921\u0930\u092a\u093e\u0938 \u091f\u094d\u0930\u093e\u092f\u0932 \u0915\u0947 \u0932\u093f\u090f \u0916\u0941\u0932\u093e, \u091f\u094d\u0930\u0948\u092b\u093f\u0915 \u0938\u093e\u092e\u093e\u0928\u094d\u092f",
-      "link": "https://www.amarujala.com/photo-gallery/delhi-ncr/noida/greater-noida-west-gaur-underpass-opens-for-trial-traffic-eases-at-char-murti-chowk-2026-11-05",
+      "title": "Dhanteras 2026: Unique Opportunities for Wealth with Gold, Silver, and Special Purchases",
+      "link": "https://www.amarujala.com/live/spirituality/festivals/dhanteras-2026-live-puja-vidhi-shubh-muhurat-to-buy-gold-silver-mantra-wishes-in-hindi-2026-11-06",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "\u0917\u0902\u0917\u094b\u0924\u094d\u0930\u0940 \u0939\u093e\u0908\u0935\u0947 \u092a\u0930 \u0915\u093e\u0930 \u0928\u0926\u0940 \u092e\u0947\u0902 \u0938\u092e\u093e\u0908, \u0917\u0941\u091c\u0930\u093e\u0924 \u0915\u0947 \u091a\u093e\u0930 \u092f\u093e\u0924\u094d\u0930\u093f\u092f\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924",
-      "link": "https://www.amarujala.com/uttarakhand/uttarkashi/gangotri-highway-accident-car-falls-into-river-near-gangnani-death-rescue-uttarakhand-uttarkashi-2026-11-05",
+      "title": "\u091c\u092e\u094d\u092e\u0942-\u0915\u0936\u094d\u092e\u0940\u0930: \u0938\u093e\u0902\u0938\u0926 \u0906\u0917\u093e \u0938\u0948\u092f\u0926 \u0915\u093e \u0907\u0938\u094d\u0924\u0940\u092b\u093e \u092e\u0902\u091c\u0942\u0930, \u092a\u093e\u0930\u094d\u091f\u0940 \u091b\u094b\u0921\u093c\u0940 \u0928\u093e\u0930\u093e\u091c\u0917\u0940 \u092e\u0947\u0902",
+      "link": "https://www.amarujala.com/jammu-and-kashmir/srinagar/speaker-accepts-resignation-of-nc-mp-aga-syed-2026-11-06",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "Team Trump Faces Historic Collapse in 2026 Midterms",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+      "title": "Trump's Efforts to Undermine Elections Fail to Succeed",
+      "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Vance Blames Iran War for GOP's 2026 Midterm Losses, Breaking with Trump",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+      "title": "Supreme Court's Harsh Rebuke on Election Eve: What It Means",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Trump Faces New Reality as Lame Duck with Two Years Left to Battle",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
+      "title": "James Talarico's Cowboy Boots: A Symbol of Victory and Style",
+      "link": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Trump Reemerges Post-Midterms: \"Did You See the Helipad?\"",
-      "link": "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html",
+      "title": "Nithya Raman Triumphs in Los Angeles Mayoral Race Against Karen Bass",
+      "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "UK Evacuates Healthcare Worker Infected with Ebola from DR Congo",
+      "title": "UK Evacuates Healthcare Worker with Ebola from DR Congo",
       "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
       "source": "The Guardian",
       "group": "eu"
     },
     {
-      "title": "ANC Faces Backlash Over Poor Services Amid Local Election Voting",
+      "title": "ANC Faces Backlash Over Poor Services Amid Local Elections in South Africa",
       "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
       "source": "The Guardian",
       "group": "eu"
@@ -194,26 +194,26 @@
       "group": "eu"
     },
     {
-      "title": "Democrats' Midterms Win: Impacts on US Economy and Trump",
-      "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
+      "title": "US Judge Halts Trump's Arch Project Following Panel Approval",
+      "link": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Germany Sees Decline in Deportations",
-      "link": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf",
+      "title": "Ex-Lawmaker Sentenced in Macau's Inaugural National Security Trial",
+      "link": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Joshua Wong Sentenced to 10 More Years for Democracy Activism in Hong Kong",
-      "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+      "title": "Asian Stocks Tumble After US Tech Selloff Sparks AI Concerns",
+      "link": "https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "NASA's Swift Space Telescope Plunges to Earth in Fiery End",
-      "link": "https://www.dw.com/en/nasa-s-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805?maca=en-rss-en-all-1573-rdf",
+      "title": "Trump Envisions 'Big, Beautiful' Deal for Russia-Ukraine Conflict",
+      "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     }
