@@ -1,70 +1,52 @@
 {
-  "updated": "2026-11-12 07:29:52.053746",
+  "updated": "2026-11-13 07:01:38.892266",
   "headlines": [
     {
-      "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
+      "title": "\u2018Bharat Vann\u2019 project launched to boost Mysuru\u2019s green cover",
+      "link": "https://www.thehindu.com/news/national/karnataka/bharat-vann-project-launched-to-boost-mysurus-green-cover/article71696792.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Keralam CM, Ministers Chennithala and Sunny Joseph meet amid \u2018power group\u2019 in UDF row",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-chennithala-sunny-joseph-meet-amid-power-group-row/article71692535.ece",
+      "title": "India\u2019s ambassador to Oman visits injured Indian seafarer in hospital",
+      "link": "https://www.thehindu.com/news/national/indias-ambassador-to-oman-visits-injured-indian-seafarer-in-hospital/article71696783.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "Why the Siang Upper Multipurpose Project has been contentious | Explained",
-      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/why-the-siang-upper-multipurpose-project-has-been-contentious-explained/article71692608.ece",
+      "title": "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
+      "link": "https://www.thehindu.com/news/national/west-bengal/let-him-give-list-of-judges-with-the-bjp-and-who-arent-calcutta-high-court-takes-exception-to-abhishek-banerjees-remarks-on-judiciary/article71696705.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "BJP leader Ravi Kumar seeks withdrawal of \u2018army training\u2019 advertisement by Minorities Department of Karnataka",
-      "link": "https://www.thehindu.com/news/national/karnataka/bjp-leader-ravi-kumar-seeks-withdrawal-of-army-training-advertisement-by-minorities-department-of-karnataka/article71690244.ece",
+      "title": "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
+      "link": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece",
       "source": "The Hindu",
       "group": "national_english"
     },
     {
-      "title": "'Happy Diwali': Accused shouted after killing ex-Tech Mahindra regional head",
-      "link": "https://timesofindia.indiatimes.com/city/faridabad/after-killing-ex-tech-mahindra-regional-head-paramjeet-dhankar-accused-shouted-happy-diwali-i-will-kill-the-whole-family-today/articleshow/135752250.cms",
+      "title": "Microsoft outage hits millions worldwide; company says fixes not 'working as expected'",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-outage-status-update-company-says-that-the-changes-applied-to-fix-outage-not-working-as-expected/articleshow/135789407.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "'Mithai khilao': PM Modi recalls how journalists told him he was Gujarat CM",
-      "link": "https://timesofindia.indiatimes.com/india/mithai-khilao-you-are-gujarat-cm-now-pm-modi-recalls-how-journalists-broke-the-news-to-him/articleshow/135759170.cms",
+      "title": "\u2018I don\u2019t care\u2019: How Jensen Huang\u2019s last hours as Nvidia CEO unfolded",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/i-dont-care-how-jensen-huangs-last-hours-as-nvidia-ceo-unfolded/articleshow/135788716.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Kejriwal, daughter get death threats; Rs 7cr demanded in Bishnoi gang's name",
-      "link": "https://timesofindia.indiatimes.com/india/arvind-kejriwal-daughter-get-death-threat-in-bishnoi-gangs-name-over-rs-7-crore-extortion/articleshow/135759194.cms",
+      "title": "Hyderabad: 8 Army personnel injured after truck crashes into roadside tree",
+      "link": "https://timesofindia.indiatimes.com/india/hyderabad-8-army-personnel-injured-after-truck-crashes-into-roadside-tree/articleshow/135792327.cms",
       "source": "Times of India",
       "group": "national_english"
     },
     {
-      "title": "Axar Patel reluctant to lead, Delhi Capitals in a fix ahead of IPL auction",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/axar-patel-reluctant-to-lead-delhi-capitals-in-a-fix-ahead-of-ipl-auction/articleshow/135752666.cms",
+      "title": "'Failed to speak Hindi': Indonesian woman with China links caught at Nepal border",
+      "link": "https://timesofindia.indiatimes.com/india/indonesian-woman-with-alleged-chinese-links-caught-at-sonauli-border-after-failing-to-speak-hindi/articleshow/135791009.cms",
       "source": "Times of India",
-      "group": "national_english"
-    },
-    {
-      "title": "IPL 2027: Full list of players traded ahead of retention deadline - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlZGRG5memJjb091Ylg0VnpoZktydVpmVVJXeThSRXQyQWlMZ3JTX1ZTbUVQNkZULWxSaXFLWnlWS3RNNUVFU2c0LU5LbUtBQzdfekVXQ2M1MkRGeDk4c2FUNVFoU3BtUHFCQzU3TmdScXE1aFp6czIteGNsbGhHY3kzSWMzTkdzeHZxOXU0YzQ5ei02NkRFdlZjcVQwV0h0am4xNHcxWGFMMlhVWlNLWmxaNVUzdXBkeDZSc0JaS1rSAccBQVVfeXFMUFJMMlJnTzE5SVJTWlQ1OTQzVjFpV0FWdS1SUi1KcTRaVXpwV0tTaXpub01DT3REM2wwdjdJZHRnRmxZRzhjdTVlc0h0STdXVnYxa09lU0JybEZTM0ZyVWRkRVFhd2pUUndqWlY5Rlp4S1NJeTNDNWxjcld0al9ZdGNoTHVxb053cXVkQjdDRGJwQlZ6NmtSTkEzOVppUmMtQzE2U0pYa0tLNEhHNEtYS3dxMWdpVzVxOG1Cc2MtY3A3cTBPTEhVNA?oc=5",
-      "source": "Indian Express",
-      "group": "national_english"
-    },
-    {
-      "title": "New Zealand star smashes 202* with 21 sixes in astonishing near-record feat - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGZQN1k0WmxseVJ3RlpwcWI1aXNMdmg5eWtxUEhJODU5N0Q5T2hHU19KZlBDTlJIakgxOEJzQXdBYURnMi16Si1MV3lxWWpqZnJtOVJULXY2X2N4UWk3T1hER1p5cnRTLVRZVVBpSl9yc2lzWFdyUGZaeWFFZ0xvaUNnTm4ySEJmSGFidGNvLXFrdUlHQzg3LWNPd00tbzBwR3dfSFY0bmZwUU5VWXN3ZWVTRzJ4WGhWZVVwc1RnMERCaGtTWF9mb0xmenc2QdIB1AFBVV95cUxPTXRrd21lUEc2b1plMnloajJra010Y0VlLTVpamloWU9wTXVLREx4MU5DUlltaGh0LUxLamdqTzJQeE5hYVhsZnluWG1PLUZQeVJCZVFIVi1mWVFHdUtqbWJva05kcGNUeXNZNHJ2a3Ytc04wZmJaZ2NFQ3VoaVRBWkZkeDZwOElsOExsQW9MVWx6aGllS3FORTNQVGdFa2Z2bDBnQkZ2RVEzRFRmSVYwdUlQN0oxNnFOX3dKTjBqZHljeDljUk50T1hGR0RSVTFIOERHRQ?oc=5",
-      "source": "Indian Express",
-      "group": "national_english"
-    },
-    {
-      "title": "Adobe announces AI agents and tools for creatives, deeper integration with Google and Microsoft - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOREZOaHRaeGZxdkZKZFRmUnBadTBDTXFvZG5mZ0JPc3hjcjljVnF0M2c0MlhhYjZRMF85T281LU5QNTZHbXpMWkJZUW5sTzBxUTBxSmhua3kwVE1lak5zMHhsWEp1MWZPV1Y5NlV2UmlDXzhNRUFnVnIzUmk0WFh3cWF1Q21BS3RyVEJsYTV6SlFsOVAxRzBsOWhFT2NCTDNYdXhmYnRMS2cxbFdXSjNlSFM3RjljQ0dNdFRCS3RvNHFKSE83dHU4YXdRckZTcV9ZX2tUbnBpU1VXUDRLSHdlbjZDd9IB6gFBVV95cUxNV1c3bmJ4ZENmN2t0YXpZQWRxdjUzaS1IOWZsektwRGhIWVBDMFhrY2VEclNEaFh4ekcyYnZfWXhDaXZuem5wQ1NEVGNRaS16UmZzSkFmdFY5ZndVSThEMnNzMmQ5WGZweGdIY05wVWhHcEp2WnM5Q044dUo0VW1qc01SSDBIZ1dVNVEwd0dMc0l0VDFKa2Y0Q2UtVFlNcU8wbmtGY0QySjZoLUk1SEhqRzBXWGkzMlFZWjhrT2E3YWIyWHJVbk5VSERKTjdOUFA1OF9iNkxKS3lIbkdBZGtYLW44Y0dlWjdCN2c?oc=5",
-      "source": "Indian Express",
       "group": "national_english"
     },
     {
@@ -74,14 +56,38 @@
       "group": "national_english"
     },
     {
-      "title": "Assam Train Derailment: Over 300 Bengal Passengers Aboard Kolkata-Sairang Express - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXlud0RCMkhtbEFVWThhMDFiOEdZNnJVakRaQ3NwbC1HekFRTkNkcVJGVm5QNUhiY19kSU9mY0NGaWVmbllad0tiUXh1NnJCQ2g1UUlhMVZJNktGaFNpb2FaSTZXRnlPUkpVVDRjSXVLdWF6RVpmdDloRUNXYXBVR2g0Rm4wQnNXdXVzb1lsbUw1VjdQRVNKd2JmMGNxOUp6djZsWG5IQndUNDZjSFUxeDFkXy1mck5LUUlvYkJTdFZnbElZT1HSAcsBQVVfeXFMTXpxc0ZkSjA2d2QxOXZuMVZpdUVmT1VVR2NYV2gyc2NINVpWT19KX3NXaDduZlZ6Q3VfWTRIRlFmSW9zYUpjRW0xQ0dweC11ZkZEWXBZRk0wd2pVdm94NXdoeFFYbGNaZmRiZG5RWlNDOWc3LV81Nm5KTnZ0MU1nM1ZoMjN5NFQyVWw2N2JVTWtOazRZVXFPQUdYQ3pQTmN0MWFsNS1Wbzlwc0hJZHFLb0lsMHEyRUtCSnJKcE0yWkE4dTJ0N2xiYmFCT00?oc=5",
+      "title": "Manoj Sharma, the IPS officer behind \u201812th Fail\u2019, takes his story to Mumbai\u2019s cricket dressing room - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUVqbF8xa0t3VDdFWWQ1NkxGcU1LRHVRT3FVVW5KLVZjdUtNLUNKQlhqSU1aTmN6N3VCR2MydGpLWXNNX21weVA3c0JfWGJyQnhleFJlbHhNeXJmZGM4RC12Y0lJMUhlOXp5RDA0RnF1RXZ3bVEyR1VFUzF3Z2h6b2p2d1h4RHhSTTlZUzNoRnhUS3ZWMmR6SlJDOUhPMC1FMEHSAagBQVVfeXFMTlV2MF9CNWg1RmktU0g1X0gwRDlNdDN5SXBqUFpjMVl3UFVIc0NxQVpoeHZzeWNMcnlWWjFKd0xjT3V6Z3E0a0pRSnlyLXk3S0x2dGVwbzF0TGRfX1ZjT1c1dXVXNXMwekNqWE9DYWRBOE5nMmoyaWRib3RLWHVQSjlVVER5V2lmbEZIQWI5SWN1X3lqa2Rhdno2TUhZVTh2THp5cmFCUmZo?oc=5",
+      "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "Saif Ali Khan, 56, does Surya Namaskar; Kareena, Soha react to his flexibility: \u2018Very bendy\u2019 - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVVqa0kwSkZfWUN3UUdVZ3ZxR3lsUlNNbDcwRmNQRXhwMEZzdkR2Y0lpRDRGSEhwZ21ENkFiWkZROWlVcmlDWk1JWHBsQzQ3LUwtOE51WE1Ca2V3M3VwVE5VellPakh6SllxTGNpMkNMTnhfampYalFiU3Z1SmEzcTFfS3pUUG81eGFudXF5eVBYdmhhRXA1Q1F1dFdZTDRIR3V5OXZ5N1pwMTlGTklKSGhwQktPVXZHdExtT2FBWdIBxgFBVV95cUxPOGlHN3ZxaE1yLTNaR01GY1JFOEl1U3dDWC03aUdDMF8wbWZBbTRpaldDWWVlREQyUHNzcUpCRFFyc0NFOVM2eTJITUd6VW1KVEdkZjN1VFVVWGxiUEUyaGJ3dDBvem8zR3I5VWJ0cklsQ2RUN1FyaVVSdmlmN2tIYXlYNVRvSWtHc1ZjSS0tN0R5b3VoZTBiQ0NyNWx5Q0xKZldhTS1HSk9uOXAwV2FKeW5Od3U5UXppd3ktOTBkcTI0SjV0bWc?oc=5",
+      "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "Remote destinations every serious birdwatcher should visit - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0Y1elJIV1hyYnlKaXRvTFo4anlJMDBYU1FtanRVV3FiczV4NWJNVk9UR3g0TGlPZzFnMXBOd2ctbnVPZFRCa3RCeVRZYTEzQ3Y3SGhLQW9oZzFvZm1Qb0VUeHN5WUxNRlAxak1xSTBna1laUm9kUzNsTmp0ZFFuUFYxV2UyVVd4Y1VtZ3VUWTlBSUE2bmZycjdXQ0VpZXMwZGZ2eEVHNFJhQ3gyOXBlT1pmMEV3RFU3T0FIWNIBwwFBVV95cUxOQUNHUE1lTmRvdmRCMlE2dlplNlVKcHNsN2RPRnpuX250cXc0X1dleTZHbHgxTTR6VGZWQ2UwM2J6TzNxOHczTXVQZFJHNTJtV19nVGFtb2ZxS0tBaDRGazBuMGZMNGszeV9wWjFpbEJsVG41SnZ5c3pzb19NWFV2eVJZeTlIcHRtZ1ZZRGxIOTR5VTZnVkpkOFowbjBxVkkxNVdxV1pqN0x3X1drdWNUNl9TN05yZGlDRlFjOFgwclVRams?oc=5",
+      "source": "Indian Express",
+      "group": "national_english"
+    },
+    {
+      "title": "China Says US Using Spy Claims To Justify Technology 'Blockade' - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDF1QVhiQ2daUDVrWm1qbWpOT1o5OEZKd0dqUnRJenBKZGpnRGQ1X3Zia1ctOE0zdU9UOVlzaG12TzNBd05kNEQ2S0N2cUVpblJ1Wm9USVNKNlJ3aWZDZ2ZBQjdOMEh4WHJJYUpXWFlVU3AyVTNOVTBYV3pNSUtqVHJvMXQtM1U5VjZhVDZfUFRUT1Fza1lJS1hycTFPRG9hWDhIVEtkR1N3V0pSZlhmbWdn0gG3AUFVX3lxTE1Gc2FBakdpNU0zcF83ZFpaUktzdlFQbFM2WWJoejdPTzdRMG91Ujd4am1PRlY5ZmpZQ2QwOTZ4VlR0OXVCUzI3UnRKZnhwZ21MaGRVM3pUdHl3RmJWenhMSmd1dUlNVzdTajMxVEd3dVI2cVhSTlQzYzEyUzY0NXVOZDVqQ3BiaWs5WmxwR2dNQ1UxbVZwSXRrZnhYOFgtT1lZaWl0MHhsWTVsQjJwYjdGRENjTEtrOA?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
     {
-      "title": "Pranab Hinted at PM Ambitions, Urged Change at Top: Sonia in Memoir - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTTlqSGI5cDU5M0dSYVBBcllJeGw4Y0RCb3o2N1ZDYVpCR01QdXBYSENkSDFHN01iVC1COWJTR0VJVlU3S25UbzVwZm10dVVaemRTNkl4bGF5dzRucWp3UzQtQTFaUGEySEdHVkhyU0pCRjhBZnBCTHljOGRvOVVOMlFOaUlPWm5HQVVQc25CSjFNNmNQNkRjN1pmZFNJX1cxV2dpcTB2X05RRTVxdDFNUzdXaTlQelBad0tnZ2t6dnZoV3RPV2dpa0YyZDF1d9IB0wFBVV95cUxPX1p0TTIybG1pT3ZlU1ZvdHNPT2V5WjhYQmZ0UkdKRXVMNGFHcFlZM1VNYTU3X3JJZTV1M0JIeldNZm1xMVFFemhQRmtDSG9GM1NTV3VuRUJVLXlXUG14YVlzbXU0RGFMUEF6alhfa3FUZ0ViajdBN2xzYlpDdWgxRkcyR0hwc3pwcjFzblBacU9JNWNia0wySXBjN2xoLW1mdFBtNDFUeGRaWmNoVWNzdGhsNlRiSkpiZkdCUk5WOE1mVmYxVF9hempkTUFUU2haSGxr?oc=5",
+      "title": "Kareena Faces Massive Backlash for Her Diwali Outfit - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVllaMTdmT2NwZGhseDA1VnU2ZUFPRVVqUmItd21wS2lBS3NtSmVFT011N0kxYnM3M2hfc0lsbnNISHNjYmpMZjZwb0R3NzVJZ1JHZi1rZmgyQVY1cnk3SUYzeGNtZjZqdVQwQnRfcXNMZGJsZ0w0ZnVtZjlBU1JoUWVEdEROdzF1WXNVSTR2bFplN0tDdzVobnlHM05XRmFFXzBTSzZiUVBoc2hKZUlNaFpQUHRqQnlOcFVmUtIBwgFBVV95cUxNZ0s0bjNvSjhCT2xBQXZWVkFGaWpzWVpJM1BSbklKUW1yNHRIM0doRXE4Mk5ZOWMxMnBVemRrcHlBMXhfME5DUTdaVzJJSEpMMDg1Y1ZTZ28yYWE2emxVX01la0M4TDgtelh1UHZTMnAwX2h4OTlGd0xpbG1RNldlUU4tNWl4ek1VUXBHT3ZrbnVxMjRVVjBuc2pnQjFpQWRfSlpiTllzM2M0ZEwwWmVFR3JYMkc0UnJxMEpUb1Rrbklfdw?oc=5",
+      "source": "Deccan Chronicle",
+      "group": "national_english"
+    },
+    {
+      "title": "New Developments Emerging: Keralam Home Minister on Gyanesh Probe - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZzloWHpIdzBVVGhQN1pkMzIteFVaMUFXd0ZTZTNGaTk5QlUzWUZJQUNjSmRnS2Y1M2lBX3BVdmJieUg3Tm5qVTFxcjdrYlljeVpfR2hmM3I0Y1EwUTFsTXdJdk1KRUFfNzF4b0lCVFpsQmVNSlFvblRsZ09fajNZM3J0RGVnMGdRaXE1Q0tGUF9kMHRvVnRCNnFYT2RfWnVmZmFVRzhFS2VZV25RU2NWaUVLMGhMRzlSaUFTeGd6NEV5RFpxRVHSAcsBQVVfeXFMTm95UHpvc3VhYkltcVczNk9VdHYtdnMzU01wdTlyVjhXVEpiZ2p3NVlXNzE1X1QyS0VSREJrZVpVX085V0x5dzF5bUl6RGptdHphWjZYSDFDUzVXVGxna1J4TnZtdExzdU5iT0VrU3Z3U19Xbm0waDMzVnBUYXgwSkVObnBwS0tPaklBaGhzU3BrTWpfRU5fN3ZoR3BZZDI5SDhhZGc1RXF1aDh0NHA2bmstUjhacWozalgwSEtxQVNhNjk0ZVpDR05yRUE?oc=5",
       "source": "Deccan Chronicle",
       "group": "national_english"
     },
@@ -92,106 +98,106 @@
       "group": "national_english"
     },
     {
-      "title": "Bar Council Of Telangana Enrols 1,109 Law Graduates - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlY0M0lMNjVyb3VUcW43Q3VZb1l6Z0VhNVcySDVXclZ6NDBpWE9zVldwUlkzVWpDeXd1REZpcF9sOHBjdGIycUJyMWJrNXNnNzI3YjhsWFd1ZzdOYUEzT2Via0RGTV9NVGQ1WWJuOHlORkRzd3c1VXF3Rll5b0F4ejVPTk5SQkNpeHFTQk9fOUdIR3VpcGZlTUhXVmI0RVB5MG8wMEhyd0dsWUV2U01WSWFXNFhGb1HSAbwBQVVfeXFMTkJpTXVVTm1GakhTNVNvS010c1lmUnRKeFZvVlRkMTJrYS1RX0kxQ1hxNUdMVnZQMEQ1a1lRWm40MFlVaENCeWFiZ25aU0FaRTR1UGxyZklNYXBDd1hoSXJ0cWNUOHRFR1Bma1ZqOFd6N1labmxLSDF2SzdXSGtEOG04WS0yTDhTenh2MkJObWpERXgzNGJqeEtaVTRzWDFDVTNHWVg5eXNOaGVfVGFJQll2OHdlNHNTMi1jcVI?oc=5",
-      "source": "Deccan Chronicle",
-      "group": "national_english"
-    },
-    {
-      "title": "\u090f\u0928\u0935\u0940\u0921\u093f\u092f\u093e \u0938\u0940\u0908\u0913 \u091c\u0947\u0928\u0938\u0928 \u0939\u0941\u0906\u0902\u0917 \u0915\u0947 \u0926\u0942\u0938\u0930\u0947 \u0905\u092b\u093c\u092f\u0947\u0930 \u0915\u093e \u0926\u093e\u0935\u093e, \u0915\u0902\u092a\u0928\u0940 \u0915\u0947 \u0936\u0947\u092f\u0930\u094b\u0902 \u092e\u0947\u0902 \u092d\u093e\u0930\u0940 \u0917\u093f\u0930\u093e\u0935\u091f",
-      "link": "https://www.bbc.com/hindi/articles/cmy0enj81yr0o?at_medium=RSS&at_campaign=rss",
+      "title": "\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0938\u0949\u092b\u093c\u094d\u091f \u0915\u0940 \u0938\u0947\u0935\u093e\u090f\u0902 \u0926\u0941\u0928\u093f\u092f\u093e\u092d\u0930 \u092e\u0947\u0902 \u0920\u092a, \u0906\u0909\u091f\u0932\u0941\u0915 \u0908\u092e\u0947\u0932 \u092d\u0940 \u092a\u094d\u0930\u092d\u093e\u0935\u093f\u0924",
+      "link": "https://www.bbc.com/hindi/articles/cmlyd67n33xwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u092e\u093f\u0938\u093f\u0938\u093f\u092a\u0940 \u0915\u0947 140 \u0938\u093e\u0932 \u0915\u0947 \u0907\u0924\u093f\u0939\u093e\u0938 \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u092c\u094d\u0932\u0948\u0915 \u0938\u0940\u0928\u0947\u091f\u0930 \u092c\u0928\u0947 \u0938\u094d\u0915\u0949\u091f \u0915\u094b\u0932\u094b\u092e",
-      "link": "https://www.bbc.co.uk/hindi/live/c8lydwxxrr5nt?at_medium=RSS&at_campaign=rss",
+      "title": "\u0913\u0935\u0948\u0938\u0940-\u091a\u0902\u0926\u094d\u0930\u0936\u0947\u0916\u0930 \u0915\u0940 \u091c\u094b\u0921\u093c\u0940 \u0915\u094d\u092f\u093e \u0930\u093e\u0939\u0941\u0932-\u0905\u0916\u093f\u0932\u0947\u0936 \u0915\u0947 \u0932\u093f\u090f \u092c\u0928\u0947\u0917\u0940 \u091a\u0941\u0928\u094c\u0924\u0940?",
+      "link": "https://www.bbc.com/hindi/articles/cwkgmn8ln3z6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u091c\u092e\u094d\u092e\u0942-\u0915\u0936\u094d\u092e\u0940\u0930 \u0915\u0947 \u0915\u093f\u0936\u094d\u0924\u0935\u093e\u0921\u093c \u092e\u0947\u0902 \u0917\u093c\u093e\u092f\u092c \u0939\u0941\u090f \u0926\u094b \u0938\u094d\u092a\u0947\u0936\u0932 \u092a\u0941\u0932\u093f\u0938 \u0911\u092b\u093c\u093f\u0938\u0930\u094b\u0902 \u0915\u0947 \u0936\u0935 \u092e\u093f\u0932\u0947, \u0905\u092c \u0924\u0915 \u0915\u094d\u092f\u093e \u092a\u0924\u093e \u0939\u0948?",
-      "link": "https://www.bbc.com/hindi/articles/c699e0297143o?at_medium=RSS&at_campaign=rss",
+      "title": "\u0928\u094d\u092f\u0942\u091c\u093c\u0940\u0932\u0948\u0902\u0921 \u0928\u0947 \u0916\u093c\u093f\u0932\u093e\u092b\u093c 334 \u0930\u0928 \u0915\u0947 \u0932\u0915\u094d\u0937\u094d\u092f \u0915\u0947 \u091c\u0935\u093e\u092c \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0932\u0921\u093c\u0916\u0921\u093c\u093e\u092f\u093e, \u091a\u093e\u0930 \u0935\u093f\u0915\u0947\u091f \u0917\u093f\u0930\u0947",
+      "link": "https://www.bbc.co.uk/hindi/live/c64gn09014xyt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u092b\u093c\u0941\u0932 \u0915\u094d\u0930\u0940\u092e \u0926\u0942\u0927 4 \u0914\u0930 \u091f\u094b\u0902\u0921 2 \u0930\u0941\u092a\u092f\u0947 \u092e\u0939\u0902\u0917\u093e, \u092c\u093e\u0930-\u092c\u093e\u0930 \u0915\u094d\u092f\u094b\u0902 \u092c\u0922\u093c\u0924\u0947 \u0939\u0948\u0902 \u0926\u093e\u092e?",
-      "link": "https://www.bbc.com/hindi/articles/cq0l38k580exo?at_medium=RSS&at_campaign=rss",
+      "title": "\u092f\u0942\u092a\u0940: \u0938\u0930\u0915\u093e\u0930\u0940 \u0938\u094d\u0915\u0942\u0932\u094b\u0902 \u0915\u0947 '\u0915\u093e\u092f\u093e\u0915\u0932\u094d\u092a' \u0915\u093e \u0926\u093e\u0935\u093e, \u092a\u0930 \u091c\u093c\u092e\u0940\u0928\u0940 \u0939\u0915\u093c\u0940\u0915\u093c\u0924 \u0915\u094d\u092f\u093e \u0915\u0939\u0924\u0940 \u0939\u0948?",
+      "link": "https://www.bbc.com/hindi/articles/crx2dlee161yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Hindi",
       "group": "national_hindi"
     },
     {
-      "title": "\u090f\u0928\u0935\u0940\u0921\u093f\u092f\u093e \u092e\u0947\u0902 \u0928\u0947\u0924\u0943\u0924\u094d\u0935 \u0938\u0902\u0915\u091f: \u091c\u0947\u0928\u094d\u0938\u0928 \u0939\u0941\u0906\u0902\u0917 \u0915\u0940 \u091c\u0917\u0939 \u0938\u0940\u090f\u092b\u0913 \u0915\u094b\u0932\u0947\u091f \u0915\u094d\u0930\u0947\u0938 \u0938\u0902\u092d\u093e\u0932\u0947\u0902\u0917\u0940 \u0915\u092e\u093e\u0928? \u0906\u091c \u092c\u094b\u0930\u094d\u0921 \u0932\u0947 \u0938\u0915\u0924\u093e \u0939\u0948 \u092b\u0948\u0938\u0932\u093e",
-      "link": "https://www.amarujala.com/business/business-diary/nvidia-cfo-colette-kress-emerges-as-top-interim-ceo-contender-amid-jensen-huang-s-ouster-deliberations-2026-11-12",
+      "title": "IND vs NZ Live Score: \u092e\u0941\u094d\u0936\u094d\u0915\u093f\u0932 \u092e\u0947\u0902 \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e, \u0928\u094c \u0915\u0947 \u0938\u094d\u0915\u094b\u0930 \u092a\u0930 \u091a\u094c\u0925\u093e \u091d\u091f\u0915\u093e; \u090b\u0924\u0941\u0930\u093e\u091c \u092a\u093e\u0902\u091a \u0930\u0928 \u092c\u0928\u093e\u0915\u0930 \u0906\u0909\u091f",
+      "link": "https://www.amarujala.com/live/cricket/new-zealand-vs-india-4th-odi-live-score-ball-by-ball-commentary-latest-updates-and-match-highlights-2026-11-13",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "\u0928\u0947\u092a\u093e\u0932 \u092e\u0947\u0902 \u092c\u0921\u093c\u093e \u0938\u0921\u093c\u0915 \u0939\u093e\u0926\u0938\u093e: \u092f\u093e\u0924\u094d\u0930\u093f\u092f\u094b\u0902 \u0938\u0947 \u092d\u0930\u0940 \u0907\u0932\u0947\u0915\u094d\u091f\u094d\u0930\u093f\u0915 \u0935\u0948\u0928 500 \u092e\u0940\u091f\u0930 \u0917\u0939\u0930\u0940 \u0916\u093e\u0908 \u092e\u0947\u0902 \u0917\u093f\u0930\u0940, 10 \u0915\u0940 \u092e\u094c\u0924; \u092a\u093e\u0902\u091a \u0918\u093e\u092f\u0932",
-      "link": "https://www.amarujala.com/uttar-pradesh/maharajganj/electric-van-plunges-500-metres-into-gorge-10-killed-and-five-injured-2026-11-12",
+      "title": "'\u0932\u0902\u092c\u0947 \u092d\u093e\u0937\u0923 \u0928\u0939\u0940\u0902, \u0938\u0940\u0927\u0940 \u092c\u093e\u0924 \u0915\u0930\u0947\u0902\u0917\u0947': \u0930\u093e\u0939\u0941\u0932 \u0928\u0947 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 \u0915\u094b \u092b\u093f\u0930 \u0926\u0940 \u092c\u0939\u0938 \u0915\u0940 \u091a\u0941\u0928\u094c\u0924\u0940, \u0915\u0939\u093e- \u0905\u0926\u093e\u0923\u0940 \u092f\u093e \u092d\u093e\u0917\u0935\u0924 \u092c\u0928\u0947\u0902 \u091c\u091c",
+      "link": "https://www.amarujala.com/india-news/rahul-challenges-pm-modi-to-a-debate-once-again-say-no-long-speeches-let-s-get-straight-to-the-point-2026-11-13",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "\u0906\u091c\u092e \u0916\u093e\u0902 \u0938\u0947 \u092e\u093f\u0932\u0928\u0947 \u092a\u0939\u0941\u0902\u091a\u0947 \u0936\u093f\u0935\u092a\u093e\u0932 \u092f\u093e\u0926\u0935: \u0921\u093e\u0938\u0928\u093e \u091c\u0947\u0932 \u0906\u090f \u0938\u092a\u093e \u0915\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0939\u093e\u0938\u091a\u093f\u0935, \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0928\u0947 \u0915\u093f\u092f\u093e \u0938\u094d\u0935\u093e\u0917\u0924",
-      "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/shivpal-yadav-meets-azam-khan-in-dasna-jail-sp-workers-welcome-party-leader-in-ghaziabad-2026-11-12",
+      "title": "\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0938\u0949\u092b\u094d\u091f \u0915\u0940 \u0938\u0947\u0935\u093e\u090f\u0902 \u0939\u0941\u0908\u0902 \u0920\u092a: Outlook \u0938\u0947 Teams \u0924\u0915 \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a, \u0906\u0916\u093f\u0930 \u0915\u094d\u092f\u093e \u0925\u0940 \u0905\u091a\u093e\u0928\u0915 \u0906\u0908 \u0924\u0915\u0928\u0940\u0915\u0940 \u0916\u0930\u093e\u092c\u0940 \u0915\u0940 \u0935\u091c\u0939?",
+      "link": "https://www.amarujala.com/technology/tech-diary/why-microsoft-crash-technical-reason-behind-massive-global-outlook-cloud-outage-2026-11-13",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "IND vs AFG U19 Live Score: \u0938\u093e\u0924 \u0917\u0947\u0902\u0926 \u0915\u0947 \u0905\u0902\u0926\u0930 \u0905\u092b\u0917\u093e\u0928\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u094b \u0924\u0940\u0928 \u091d\u091f\u0915\u0947, \u0938\u094d\u0915\u094b\u0930 \u091b\u0939 \u0935\u093f\u0915\u0947\u091f \u092a\u0930 145 \u0930\u0928 \u0915\u0947 \u092a\u093e\u0930",
-      "link": "https://www.amarujala.com/live/cricket/india-u19-vs-afghanistan-u19-acc-men-s-u19-asia-cup-2026-semi-final-live-score-and-updates-2026-11-12",
+      "title": "\u0938\u094d\u092a\u093e\u0907\u0938\u091c\u0947\u091f \u092a\u0930 \u0906\u0930\u094d\u0925\u093f\u0915 \u0938\u0902\u0915\u091f \u0917\u0939\u0930\u093e\u092f\u093e: \u0926\u0941\u092c\u0908 \u0915\u0940 \u091a\u093e\u0930 \u0909\u0921\u093c\u093e\u0928\u0947\u0902 \u0930\u0926\u094d\u0926, \u0917\u094d\u0930\u093e\u0909\u0902\u0921 \u0939\u0948\u0902\u0921\u0932\u093f\u0902\u0917 \u0915\u0902\u092a\u0928\u0940 \u0928\u0947 \u0930\u094b\u0915\u0940 \u091a\u0947\u0915-\u0907\u0928 \u0938\u0947\u0935\u093e\u090f\u0902",
+      "link": "https://www.amarujala.com/india-news/financial-crisis-deepens-spicejet-four-flights-dubai-cancelled-ground-handling-company-halts-check-in-services-2026-11-13",
       "source": "Amar Ujala",
       "group": "national_hindi"
     },
     {
-      "title": "Nvidia\u2019s Board Is Weighing Jensen Huang\u2019s Future",
-      "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+      "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "title": "Trump Had Urged Nvidia\u2019s Jensen Huang to Fight for His Job",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang",
-      "link": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html",
+      "title": "How the Deadly Brooklyn Building Collapse Unfolded",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-flatbush.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Nvidia\u2019s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO\u2019s, Future",
-      "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+      "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
       "source": "New York Times",
       "group": "us"
     },
     {
-      "title": "Richard Posner, influential and iconoclastic federal judge, dies at 87",
-      "link": "https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/",
+      "title": "Eight dead and at least 18 injured after Brooklyn building collapse",
+      "link": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/",
       "source": "Washington Post",
       "group": "us"
     },
     {
-      "title": "Trump defends his war policies in speech at Arlington National Cemetery",
-      "link": "https://www.washingtonpost.com/nation/2026/11/11/trump-defends-his-war-policies-speech-arlington-national-cemetery/",
+      "title": "3 exonerated inmates urge Florida\u2019s governor-elect to halt executions",
+      "link": "https://www.washingtonpost.com/nation/2026/11/12/former-florida-death-row-inmates-appeal-governor-elect-halt-executions/",
       "source": "Washington Post",
       "group": "us"
     },
     {
-      "title": "Route 66 turns 100. Here are five must-see spots along the road.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/11/route-66-turns-100-here-are-five-must-see-spots-along-road/",
+      "title": "San Francisco approves first gay bathhouse since AIDS epidemic",
+      "link": "https://www.washingtonpost.com/nation/2026/11/12/san-francisco-approves-first-gay-bathhouse-since-aids-epidemic/",
       "source": "Washington Post",
       "group": "us"
     },
     {
-      "title": "Most transgender people have no regrets years after hormone therapy, study says",
-      "link": "https://www.washingtonpost.com/nation/2026/11/11/most-transgender-people-have-no-regrets-years-after-hormone-therapy-study-says/",
+      "title": "Home sales in worst slump since the aftermath of the Great Recession",
+      "link": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
       "source": "Washington Post",
       "group": "us"
+    },
+    {
+      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "source": "The Guardian",
+      "group": "eu"
     },
     {
       "title": "Lewis Hamilton visits Egypt\u2019s Rafah crossing and Gaza aid facilities",
@@ -212,32 +218,26 @@
       "group": "eu"
     },
     {
-      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-      "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-      "source": "The Guardian",
-      "group": "eu"
-    },
-    {
-      "title": "Intelligent women get less help at work, study finds",
-      "link": "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf",
+      "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
+      "link": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "India news : Modi government approves $340 million museum in Delhi",
-      "link": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf",
+      "title": "Microsoft works to restore Outlook and Teams after global outage",
+      "link": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
-      "link": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf",
+      "title": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+      "link": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     },
     {
-      "title": "Where the US's war with Iran stands after the midterms",
-      "link": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+      "title": "FIFA loses bid to block UEFA evidence gathering against Infantino",
+      "link": "https://www.dw.com/en/fifa-loses-bid-to-block-uefa-evidence-gathering-against-infantino/a-79935807?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "group": "eu"
     }
